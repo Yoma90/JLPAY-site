@@ -1,0 +1,2314 @@
+/* MEDIA QUERIES bloc cartes */
+
+@media (max-width: 1780px) {
+  .displaycardweb .cartePush .centerDiv {
+    position: relative;
+    left: 15% !important;
+  }
+  .displaycardweb .cartePush {
+    padding-left: 0% !important;
+  }
+  .image-carte-virtuelle {
+    position: relative;
+    top: 2rem;
+    width: 125px !important;
+  }
+  .image-carte-push {
+    width: 225px !important;
+    position: relative;
+    top: 9rem !important;
+  }
+  .btn-acheter-carte {
+    position: relative;
+    /**   top: 2.5rem !important;*/
+  }
+}
+/*
+MEDIA QUERIES INDEX SECTION 1 
+*/
+
+@media (max-width: 1024px) {
+  /* .image-tel{
+        display: none;
+    }*/
+  .headerTextSuper {
+    line-height: 1.5;
+  }
+
+  .display-web-block,
+  .headerbuttonstore {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+  .image-tel {
+    height: 385px !important;
+    top: 0;
+  }
+}
+
+@media (max-width: 992px) and (min-width: 768px) {
+  .num-tel {
+    width: 100% !important;
+  }
+}
+
+@media (min-width: 762px) and (max-width: 500px) {
+  .headerrounded {
+    padding-top: 100px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .titleHeaderTransfer {
+    font-size: 30px !important;
+  }
+
+  .image-tel {
+    height: 395px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .TextSuperGroup {
+    display: none !important;
+  }
+
+  .image-account {
+    position: relative;
+    left: 70%;
+  }
+
+  .HeaderTransferText {
+    text-align: center !important;
+    position: relative;
+    left: 15%;
+    font-size: 20px;
+    width: 500px !important;
+  }
+
+  .headerBtn {
+    position: relative;
+    left: 65%;
+  }
+
+  .textOuverture {
+    position: relative;
+    left: 73%;
+  }
+
+  .display-web-block {
+    display: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1820px;
+  }
+}
+
+@media (max-width: 545px) {
+  .headerrounded {
+    margin-top: 70px !important;
+    /**  padding-bottom: 50px !important;**/
+    text-align: center;
+  }
+
+  .image-tel {
+    display: block;
+    position: relative;
+    top: 2% !important;
+    right: 0px !important;
+    height: 283px !important;
+  }
+
+  .headerbuttonstore {
+    display: none !important;
+  }
+
+  .displayxlscreen {
+    display: none;
+  }
+  .num-tel {
+    width: 90% !important;
+  }
+  #contacts {
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .list-group li a {
+    cursor: pointer;
+    font-size: 12px;
+  }
+}
+
+#faq .card-body {
+  height: unset;
+}
+
+@media (max-width: 425px) {
+  .index-ouvrer-un-compte {
+    position: relative;
+    right: 0.5rem;
+  }
+  .mobile-div0 {
+    position: relative;
+    top: 3rem;
+  }
+  .reseaux {
+    right: 3%;
+  }
+
+  .text-via {
+    margin-bottom: 3.1rem;
+  }
+
+  .tarifs-mobile-bloc-2 {
+    margin-bottom: 8rem;
+  }
+
+  .secondTarifs .title-tarifs {
+    font-size: 52px !important;
+  }
+
+  .all-in-one {
+    padding-left: 12px;
+  }
+
+  .titleHeaderTransfer {
+    font-size: 20px !important;
+  }
+
+  .threemin {
+    font: normal normal 500 13px/18px Poppins !important;
+    position: relative !important;
+    right: 2rem !important;
+  }
+
+  #faq .card-body {
+    height: unset;
+    padding-right: 10px;
+    padding-left: 0;
+  }
+
+  .faq-paragraph {
+    font-size: 14px !important;
+    margin-top: 0px !important;
+    /** color: #000;**/
+  }
+
+  .faq-questions {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    /** color: #003345;*/
+  }
+
+  .titleCard {
+    font: normal bold 12px Poppins !important;
+  }
+
+  .titleCard small {
+    font: normal 9px Poppins !important;
+  }
+
+  .titleDiv0 {
+    margin-bottom: -20px;
+  }
+
+  .cardInfos {
+    margin-top: 0px !important;
+  }
+
+  .cardInfos .card {
+    width: 140px;
+  }
+
+  .ol-title {
+    font-size: 14px !important;
+    color: #003345;
+    font-weight: 100;
+    line-height: normal;
+  }
+
+  .li-ul {
+    font-size: 14px !important;
+  }
+
+  .displaycardmobile .vitualcardcontent {
+    position: relative;
+    top: -25px !important;
+  }
+
+  .vitualCard {
+    height: 430px !important;
+  }
+
+  .mobile-btn-activer-gratuit {
+    font-size: 15px;
+  }
+
+  .titleBlockParagraph0 {
+    font-weight: normal !important;
+  }
+
+  .divAppSuper .divText {
+    width: 100% !important;
+  }
+
+  /** 
+   .titleDiv {
+        font-size: 31px !important;
+        margin-bottom: -20px;
+    }
+   .titleDiv {
+        font-size: 31px !important;
+    }**/
+  .FindAgency-texts {
+    position: relative;
+    top: -5%;
+  }
+
+  .find-us .titleFind {
+    font: normal normal 800 16px Poppins !important;
+  }
+
+  .find-us {
+    padding: 25px 20px !important;
+  }
+
+  .block-find-agency .firstBlock {
+    padding: 0px 4% 0px 4% !important;
+  }
+
+  .tab_list {
+    padding-left: 0rem !important;
+  }
+
+  .tabsContent {
+    max-width: 89% !important;
+    padding: 1rem !important;
+    margin-bottom: 9rem;
+  }
+
+  .marginSuperAppMobile {
+    padding-right: 0px;
+    padding-left: 7px;
+    width: 100%;
+  }
+
+  .firstBlock {
+    margin-bottom: -14px !important;
+  }
+
+  /** .headerphonediv {
+        position: relative;
+        top: 3rem;
+    }**/
+
+  .titleAvecPush {
+    padding-top: 10% !important;
+    padding-bottom: 0% !important;
+    margin-bottom: -4rem;
+  }
+
+  .cardPensee {
+    height: 220px;
+    margin-bottom: 40px;
+  }
+
+  .cardPensee .card {
+    width: 76% !important;
+    box-shadow: 0px 0px 31px #00000029;
+  }
+
+  .cardPensee .card-body {
+  }
+
+  .cardPensee .card .titleActu {
+    font-size: 15px !important;
+  }
+
+  .display-mobile-none {
+    display: none;
+  }
+
+  .cardPensee .card .card-img-top {
+    left: 52px !important;
+    width: 32px !important;
+  }
+
+  .faqBlock {
+    margin-top: 15%;
+    position: relative;
+    left: 0%;
+  }
+}
+
+@media (max-width: 1440px) and (min-width: 1145px) {
+  .Mycard {
+    width: 368px !important;
+  }
+}
+
+@media (max-width: 1144px) and (min-width: 992px) {
+  .Mycard {
+    width: 278px !important;
+    height: 200px !important;
+  }
+
+  .Mycard .textActu {
+    font-size: 16px !important;
+    height: 150px !important;
+  }
+
+  .Mycard .titleActu {
+    font-size: 14px !important;
+  }
+}
+
+/*For Extra-large size device*/
+@media (max-width: 1440px) and (min-width: 1024px) {
+  .FindAgency-texts {
+    /*   position: relative;
+        bottom: 39%;*/
+  }
+
+  /**  .cards-list,#iconBlock{
+        padding: 0px 11% 0px 8%;
+    }*/
+  #superApp .cardImg img {
+    max-width: 301px;
+    position: absolute;
+    right: -20px;
+    bottom: -2%;
+  }
+}
+
+@media (max-width: 1440px) and (min-width: 1145px) {
+  .find-us .titleFind {
+    font-size: 16px !important;
+    margin-bottom: 0 !important;
+  }
+
+  .second-p-findagency {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 1144px) and (min-width: 1024px) {
+  .find-us .titleFind {
+    font-size: 16px !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  .second-p-findagency {
+    margin-bottom: 0 !important;
+    font-size: 12px !important;
+  }
+
+  .find-us .widthdraw {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 1144px) and (min-width: 1024px) {
+  .find-us-img img {
+    width: 102.5% !important;
+  }
+}
+
+@media (max-width: 1440px) {
+  .display-web-block {
+    display: none;
+  }
+
+  /**
+    .push-header{
+        padding: 0px 14% 0px 8%;
+    }**/
+
+  .cartePush .divText {
+    position: relative;
+    left: 2% !important;
+  }
+
+  .lavirtuellepush {
+    position: relative;
+    left: 25% !important;
+  }
+
+  .hiddenbrmd {
+    display: none;
+  }
+
+  .divAppSuper {
+    padding: 0px 6% 0px 2.5%;
+  }
+
+  /**  #superApp .titleBlock p{
+        text-align: left;
+        font: normal bold 46px Poppins !important;
+    }
+    .image-tel {
+        right: 3%;
+        top: 1%;
+    }**/
+
+  .threemin {
+    position: absolute;
+    left: 6%;
+    font-size: 13px !important;
+  }
+
+  .boold {
+    font-weight: 800;
+  }
+
+  .image-carte-push {
+    height: auto !important;
+    width: 25% !important;
+    margin-top: 20px !important;
+  }
+
+  .image-carte-virtuelle {
+    height: auto !important;
+
+    margin-top: 40% !important;
+  }
+
+  /**  .alex-block {
+        top: 6.3% !important;
+    }**/
+  .cartePush .divText .titleBlockParagraph0 {
+    font: normal normal 500 17px Avenir !important;
+    color: #074756;
+  }
+
+  .displaycardweb .cartePush {
+    height: 0% !important;
+  }
+
+  .divText .lavirtuellepush .titleBlockParagraph {
+    font: normal normal 500 18px Avenir;
+    color: #074756;
+  }
+
+  .find-us {
+    max-height: 362.36px;
+    padding-top: 12px;
+  }
+
+  .block-find-agency .firstBlock {
+    padding: 0px 15% 0px 8%;
+  }
+
+  .titleFind {
+    font: normal normal 800 23px Poppins !important;
+  }
+
+  .second-p-findagency {
+    padding-right: 0px !important;
+    padding-top: 20px !important;
+  }
+
+  .titleBlockParagraph0 {
+    text-rendering: optimizeLegibility;
+  }
+
+  .bloc-price {
+    margin: 4% 0 45px 0% !important;
+  }
+
+  .tarifs-carte-virtuelle {
+    position: relative;
+    left: 36%;
+  }
+
+  .tarifs-title-carte-virtuelle {
+    position: relative;
+    left: 36%;
+  }
+
+  .tarifs-title-carte-push {
+    position: relative;
+    right: 0%;
+  }
+
+  .bloc-price .price-row .green {
+    text-align: center;
+  }
+
+  .bloc-price .price-row .group-text-four {
+    text-align: center;
+  }
+
+  .bloc-price .price-row .group-text-dashed {
+    text-align: center;
+    position: relative;
+    right: 1%;
+  }
+
+  .un-pourcent-frais {
+    position: relative;
+    left: 0%;
+  }
+
+  .text-group-two {
+    text-align: center;
+    position: relative;
+    right: 0;
+  }
+
+  .text-group-two-ex {
+    text-align: center;
+  }
+
+  .frais-mensuels-1 {
+    text-align: right;
+    position: relative;
+    left: 2.5%;
+  }
+
+  .frais-mensuels-2 {
+    text-align: center;
+    position: relative;
+    left: 2%;
+  }
+
+  .hero-wrap {
+    padding: 0px 15% 0px 8%;
+  }
+
+  .history-arrow {
+    padding: 0px 13% 0px 8%;
+  }
+
+  /**
+    .values{
+        padding: 0px 12% 0px 8%;F#devenir-distributeur
+    }**/
+  .p-lg-5 {
+    padding: 1rem !important;
+  }
+
+  .actualites-title {
+    padding: 0px 12% 0px 8%;
+  }
+
+  .firstRow h2 {
+    padding: 0;
+  }
+
+  .bloc-how-it-work {
+    padding: 0;
+  }
+
+  /** .bloc-all-in-one{
+        padding: 0px 12% 0px 8% !important;
+    }**/
+  .img-all-in-one img {
+    position: relative;
+    top: 7%;
+    left: 7%;
+  }
+
+  .titleActu {
+    text-align: left;
+  }
+
+  .card-body:first-child {
+    text-align: left;
+  }
+
+  .illustration-open-account {
+    position: relative;
+    top: 10%;
+  }
+
+  .illustration-text-1 {
+    position: relative;
+    left: 7%;
+  }
+
+  .illustration-text-2 {
+    position: relative;
+    left: 3%;
+  }
+
+  .open-account .react-tel-input {
+    position: relative;
+    left: 7%;
+  }
+
+  .find-agency {
+    position: relative;
+    left: 3%;
+  }
+}
+
+@media (min-width: 1441px) {
+  .illustration-open-account {
+    position: relative;
+    top: 10%;
+  }
+
+  .illustration-text-1 {
+    position: relative;
+    left: 7%;
+  }
+
+  .illustration-text-2 {
+    position: relative;
+    left: 3%;
+  }
+
+  .find-agency {
+    position: relative;
+    left: 3%;
+  }
+
+  .alex-block {
+    top: 2% !important;
+  }
+
+  .display-web-block {
+    display: none;
+  }
+}
+
+@media (min-width: 1145px) {
+  .alex-block {
+    top: 2% !important;
+  }
+}
+
+@media (max-width: 1703px) {
+  .cartePush .divText {
+    /**  position: relative;
+       left: 2% !important;**/
+  }
+
+  .lavirtuellepush {
+    position: relative;
+    left: 20% !important;
+  }
+}
+
+/*
+MEDIA QUERIES INDEX SECTION 2 
+*/
+
+@media (max-width: 1024px) {
+  .card-body {
+    height: 151px;
+  }
+}
+
+@media (max-width: 768px) {
+  .cardInfos {
+    margin-top: 25px;
+  }
+
+  .card-body {
+    height: 151px;
+  }
+
+  .titleCard {
+    font: normal bold 13px Poppins;
+  }
+
+  /** .textActu{
+        font: normal normal 11px Poppins !important; 
+    }**/
+}
+
+@media (max-width: 425px) {
+  .cardInfos .card {
+    min-height: 145px !important;
+    width: 100%;
+  }
+
+  .cards-list {
+    padding: 0px !important;
+  }
+
+  .cardIndex .card-body {
+    height: 120px;
+    padding-top: 20px;
+  }
+
+  .cardIndex img {
+    width: 32px;
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 990px) {
+  .cardInfos .card-body .titleCard {
+    font-size: 12px;
+  }
+
+  .cardInfos .card-body p small {
+    font-size: 13px !important;
+  }
+}
+
+@media (min-width: 2000px) {
+  .cardInfos .card .card-body {
+    height: 181px !important;
+  }
+}
+
+/*
+MEDIA QUERIES INDEX SECTION 3 
+*/
+
+/**
+@media screen {
+    .tarifs-carte-push{
+        position: relative;
+        right:51%;
+    }
+}
+*/
+@media (min-width: 2200px) {
+  .vitualCard {
+    max-width: 117rem !important;
+    float: right !important;
+    margin: 0 auto !important;
+  }
+
+  .lavirtuellepush {
+    width: 45%;
+  }
+
+  .cartePush .divText {
+    width: 100% !important;
+    padding-left: 43% !important;
+  }
+
+  .cartePush .divText .titleBlockParagraph0 {
+    font: normal normal bold 22px Avenir;
+    color: #074756;
+  }
+
+  .divText .lavirtuellepush .titleBlockParagraph {
+    font: normal normal bold 23px Avenir;
+    color: #074756;
+  }
+
+  .btn-activer-gratuitement {
+    position: relative;
+    /**top: 1.7rem !important;**/
+  }
+
+  .cartePush .divText {
+    position: relative;
+    left: 14%;
+    width: 74% !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .cardImg {
+    display: none !important;
+  }
+
+  .cardImg2 {
+    display: none;
+  }
+
+  .divCardImg2 {
+    display: none;
+  }
+
+  .vitualCard {
+    height: 400px;
+  }
+
+  .titleBlock {
+    text-align: center !important;
+    width: 300px;
+  }
+
+  .titleBlockParagraph {
+    width: 300px;
+  }
+
+  .btnBuy2 {
+    position: relative;
+    bottom: 17px !important;
+  }
+}
+
+@media (max-width: 1000px) {
+  .vitualCard {
+    height: 400px;
+  }
+
+  .titleBlock {
+    text-align: center !important;
+    width: 300px;
+  }
+
+  .titleBlockParagraph {
+    width: 300px;
+    font: normal normal normal 20px Avenir;
+  }
+
+  .btnBuy2 {
+    position: relative;
+    top: 14px !important;
+  }
+}
+
+@media (min-width: 1025px) {
+  .displaycardmobile {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .displaycardmobile {
+    display: none !important;
+  }
+  .displaycardweb .cartePush .centerDiv {
+    position: relative;
+    left: 9% !important;
+  }
+  .titleBlock0 {
+    position: relative;
+    right: 3rem;
+  }
+  .titleBlock1 {
+    position: relative;
+    right: 1.4rem;
+  }
+  .displaycardweb .cartePush {
+    padding-left: 0% !important;
+  }
+  .displaycardweb .vitualCard {
+    min-height: 436.5px;
+  }
+  .displaycardweb .lavirtuellepush {
+    position: relative;
+    bottom: 1rem;
+    right: 2rem;
+  }
+  .tabletdisapear {
+    display: none;
+  }
+  .titleBlockParagraph {
+    font: normal normal 500 17px Avenir !important;
+    color: #074756;
+  }
+  .btn-acheter-carte {
+    position: relative;
+    top: 0.5rem;
+  }
+  .titleDivSection3 {
+    margin-bottom: 4rem;
+    font-size: 35px !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .displaycardmobile {
+    display: block;
+  }
+
+  .displaycardweb {
+    display: none;
+  }
+
+  .titleBlock1 {
+    position: relative;
+    left: 7%;
+  }
+
+  .text-3 {
+    flex-direction: row;
+    padding: 0;
+  } /***/
+  /** #footer .nav:first-child li:first-child {
+        margin-right: 100px !important;
+    }
+    #footer .nav:nth-child(2) li:first-child {
+        margin-right: 30px !important;
+    }**/
+}
+@media screen and (max-width: 768px) {
+  .text-3 {
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1417px) and (max-width: 1440px) {
+  .cartePush .divText {
+    position: relative;
+    left: 15%;
+    width: 49% !important;
+  }
+
+  .lavirtuellepush {
+    width: 100%;
+    position: relative;
+    left: 14%;
+  }
+
+  .cartePush .divText .titleBlockParagraph0 {
+    font: normal normal bold 22px Avenir;
+    color: #074756;
+  }
+
+  .divText .lavirtuellepush .titleBlockParasgraph {
+    font: normal normal bold 23px Avenir;
+    color: #074756;
+  }
+
+  .btn-activer-gratuitement {
+    position: relative;
+    /**   top: 1.5rem !important; **/
+  }
+
+  .vitualCard {
+    max-width: 62rem !important;
+    float: right;
+    position: relative;
+    left: 2%;
+  }
+}
+
+@media (min-width: 1441px) and (max-width: 2199px) {
+  /* .cartePush .divText{
+        position: relative;
+        left: 14%;
+        width: 60% !important;
+    }*/
+  .cardInfos .card .card-body {
+    height: 181px !important;
+  }
+
+  .lavirtuellepush {
+    max-width: 100%;
+    position: relative;
+    left: 14%;
+  }
+
+  .vitualCard {
+    max-width: 62rem !important;
+    float: right;
+    position: relative;
+    left: 2%;
+  }
+
+  .cartePush .divText .titleBlockParagraph0 {
+    font: normal normal bold 22px Avenir;
+    color: #074756;
+  }
+
+  .divText .lavirtuellepush .titleBlockParagraph {
+    font: normal normal bold 22px Avenir;
+    color: #074756;
+  }
+
+  .btn-activer-gratuitement {
+    position: relative;
+    /** top: 16px !important;*/
+  }
+
+  .btn-acheter-carte {
+    position: relative;
+    top: 0rem;
+  }
+
+  .div-section-2 {
+    margin-top: 3.5%;
+  }
+
+  .threemin {
+    position: absolute;
+    left: 3% !important;
+    font-size: 17px !important;
+  }
+
+  .boold {
+    font-weight: 800;
+  }
+}
+
+@media (min-width: 1026px) and (max-width: 2199px) {
+  .image-tel {
+    right: 8% !important;
+    top: 0% !important;
+  }
+}
+
+@media (min-width: 2200px) and (max-width: 2560px) {
+  .cartePush .divText {
+    position: relative;
+    left: -10%;
+    width: 90% !important;
+  }
+
+  .lavirtuellepush {
+    width: 65%;
+    position: relative;
+    left: 14%;
+  }
+
+  .cartePush .divText .titleBlockParagraph0 {
+    font: normal normal bold 22px Avenir;
+    color: #074756;
+  }
+
+  .divText .lavirtuellepush .titleBlockParagraph {
+    font: normal normal bold 23px Avenir;
+    color: #074756;
+  }
+
+  .vitualCard {
+    max-width: 80rem !important;
+    position: relative;
+    left: 2%;
+  }
+}
+
+/*
+MEDIA QUERIES INDEX SECTION 4 
+*/
+@media (min-width: 1024px) {
+  /*#superApp .titleBlock p{
+        text-align: left;
+        font: normal bold 52px Poppins !important;
+    }*/
+}
+
+@media (max-width: 1024px) {
+  #superApp .titleBlock {
+    width: 95%;
+    text-align: left;
+  }
+
+  #superApp .titleBlock p {
+    text-align: left;
+    /** font: normal bold 30px Poppins !important;**/
+  }
+}
+
+@media (max-width: 1000px) {
+  .rowCol .colInfo {
+    padding-left: 15px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .vitualCard {
+    height: 358px;
+  }
+
+  .btnBuy {
+    position: relative;
+    top: 28px;
+    left: 6%;
+  }
+
+  .btnBuy2 {
+    position: relative;
+    top: 10px;
+    left: 25px;
+  }
+
+  .titleBlockParagraph {
+    position: relative;
+    left: 15%;
+  }
+
+  .titleBlockParagraph0 {
+    position: relative;
+    left: 6%;
+  }
+
+  .titleBlock0 {
+    position: relative;
+    right: 7%;
+  }
+
+  #superApp .titleBlock {
+    margin-left: 3% !important;
+  }
+
+  .colInfo {
+    height: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .colInfo {
+    /*height: auto;*/
+    width: 100% !important;
+  }
+
+  .rowCol .colInfo {
+    padding-left: 0px !important;
+  }
+
+  .colInfo p img {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  #superApp .titleBlock p {
+    font: normal bold 16px Poppins !important;
+  }
+}
+
+/*
+MEDIA QUERIES INDEX SECTION 5 
+*/
+
+/*
+MEDIA QUERIES INDEX SECTION 6
+*/
+@media (max-width: 575px) and (max-width: 415px) {
+  .tab_list li a {
+    font-size: 14px !important;
+  }
+
+  /** .img-tabs{
+        left: 6% !important;
+        top: 21% !important;
+        max-height: 400px;
+
+    }**/
+}
+@media (max-width: 414px) {
+  .tab_list li a {
+    font-size: 10px !important;
+  }
+
+  /** .img-tabs{
+        left: 6% !important;
+        top: 21% !important;
+        max-height: 400px;
+    }**/
+}
+
+@media (max-width: 768px) {
+  /** .img-tabs{
+        position: relative;
+        top: 15%;
+        left: 16%;
+    }*/
+}
+
+@media (max-width: 992px) {
+  .tab_list {
+    max-width: 55%;
+  }
+}
+
+@media (max-width: 991px) {
+  .tab_list,
+  .tabsContent {
+    max-width: 100% !important;
+  }
+
+  .tabsContent {
+    margin-bottom: 100px;
+  }
+
+  /**   .img-tabs {
+        width: 239px;
+        height:auto !important;
+    }**/
+}
+
+/*
+MEDIA QUERIES INDEX SECTION 7 
+*/
+
+@media (max-width: 1024px) {
+  .listTextCards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .listTextCards .cardPensee {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+}
+
+@media (max-width: 768px) {
+  .cardPensee .Mycard {
+    height: 230px;
+    margin-bottom: 40px;
+  }
+
+  .listTextCards:last-child {
+    margin-bottom: 25px;
+  }
+
+  .listTextCards .cardPensee .Mycard {
+    width: 594.03px;
+  }
+}
+
+@media (max-width: 1000px) and (min-width: 992px) {
+  .cardPensee .Mycard {
+    height: 180px;
+    margin-bottom: 40px;
+  }
+
+  .listTextCards:last-child {
+    margin-bottom: 25px;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 592px) {
+  .cardPensee .Mycard {
+    height: 250px;
+    margin-bottom: 40px;
+    width: 430px;
+  }
+
+  .listTextCards:last-child {
+    margin-bottom: 25px;
+  }
+}
+
+/*
+* MEDIA QUERIES ABOUT SECTION 6
+*/
+
+@media (max-width: 1024px) {
+  .actuCard .Mycard {
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) {
+  .cardPensee {
+    font-size: 15px;
+  }
+
+  .cardPensee .card-text {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .textProduct {
+    text-align: center !important;
+    font-size: 20px !important;
+    font-weight: normal !important;
+  }
+}
+
+/*
+* MEDIA QUERIES NOS TARIFS SECTION 6
+*/
+
+@media (max-width: 768px) {
+  .row-card-panelys {
+    position: absolute;
+    right: 0%;
+  }
+
+  /**  .secondTarifs{
+        display: none;
+    } */
+}
+
+@media (max-width: 1000px) {
+  .row-card-panelys {
+    position: absolute;
+    right: -13%;
+  }
+
+  /**  .secondTarifs{
+        display: none;
+    } */
+}
+
+@media (max-width: 1024px) {
+  /**  .secondTarifs{
+        display: none;
+    } */
+}
+
+@media (min-width: 1025px) {
+  .physique-carte {
+    position: relative;
+    left: 32% !important;
+  }
+
+  /**  .secondTarifs{
+        display: none;
+    } */
+}
+
+@media (max-width: 1025px) {
+  .firstTarifs {
+    display: none !important;
+  }
+
+  .secondTarifs {
+    display: block !important;
+    margin-top: 11%;
+  }
+
+  .title-tarifs {
+    margin: 5rem 0 5rem 0 !important;
+  }
+
+  .bloc-price {
+    padding: 130px 30px 50px !important;
+  }
+
+  .secondTarifs .blue,
+  .last-fact {
+    text-align: center;
+  }
+}
+
+@media (min-width: 1025px) {
+  .secondTarifs {
+    display: none !important;
+  }
+
+  .firstTarifs {
+    display: block !important;
+  }
+
+  .title-tarifs {
+    font-size: 50px;
+    margin: 11rem 0 5rem;
+    font-family: Poppins-ExtraBold, serif;
+  }
+}
+
+@media (max-width: 1879px) and (min-width: 992px) {
+  #devenir-distributeur .textDistributor {
+    /**display: none !important;*/
+    font-size: 40px !important;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 1440px) and (max-width: 0px) {
+  #devenir-distributeur .textDistributor {
+    /**display: none !important;*/
+    font-size: 30px !important;
+    margin-top: 70px;
+  }
+}
+
+@media (max-width: 1440px) {
+  #devenir-distributeur .textDistributor {
+    /**display: none !important;*/
+    font-size: 30px !important;
+  }
+
+  .becomeDistributor .fields {
+    width: 85% !important;
+  }
+}
+@media (max-width: 1440px) {
+  #devenir-distributeur {
+    padding: 100px 0 0 0 !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .becomeDistributor .titleDiv {
+    font-size: 50px !important;
+  }
+
+  .becomeDistributor .fields {
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .distributorBlock .text-justify {
+    padding: 0 30px;
+  }
+
+  #devenir-distributeur img {
+    margin-left: 30px;
+    width: 83% !important;
+  }
+}
+
+@media (max-width: 575px) {
+  .row-card-panelys {
+    position: absolute !important;
+    right: 15%;
+  }
+
+  .img-carte-virtuelle {
+    width: 256px;
+  }
+
+  .img-carte .blue h6 {
+    text-align: center;
+    position: relative;
+    bottom: 3rem !important;
+    right: 4% !important;
+    font-size: 20px;
+  }
+
+  .price-container {
+    padding-top: 1%;
+  }
+
+  .fact .amount {
+    font-size: 32px !important;
+  }
+  .fact .amount,
+  .fact .percent,
+  .fact .fa-asterisk {
+    position: relative;
+    left: 55%;
+  }
+
+  .last-fact .amount {
+    position: relative;
+    left: 57%;
+  }
+
+  .fact .currency {
+    position: relative;
+    left: 55%;
+  }
+
+  .pourcent-frais {
+    font-family: "Avenir-black", serif !important;
+    left: 19% !important;
+  }
+
+  .last-fact .amount {
+    font-family: "Avenir-black", serif !important;
+    font-size: 15px !important;
+    left: 19% !important;
+    bottom: 10% !important;
+  }
+
+  .label-avantage {
+    font-size: 20px !important;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+
+  .img-carte-virtuelle {
+    width: 240px;
+    height: 159px;
+    position: relative;
+    bottom: 70px;
+    right: 3%;
+  }
+
+  .bloc-price {
+    margin: 3% 2% 100px 2% !important;
+  }
+
+  .tarifs-mobile-bloc-1 {
+    margin-bottom: 6rem;
+  }
+
+  .tarifs-mobile-bloc-2 .fact {
+    text-align: left !important;
+    position: relative;
+    right: 0%;
+  }
+
+  .tarifs-mobile-bloc-2 .amount {
+    font-size: 26px !important;
+  }
+
+  .bloc-tarifs-find-agency {
+    margin-bottom: 4rem;
+  }
+
+  .tarifs-mobile-bloc-2 .pourcent-frais {
+    font-size: 22px !important;
+    position: relative;
+    left: 1rem !important;
+    bottom: -0.5rem;
+  }
+
+  .tarifs-mobile-bloc-1 .pourcent-frais {
+    font-size: 22px !important;
+    position: relative;
+    left: 1rem !important;
+    bottom: -0.5rem;
+  }
+}
+
+@media (min-width: 1441px) {
+  .bloc-price .price-row .group-text-four {
+    text-align: center;
+    position: relative;
+    right: 4rem;
+  }
+
+  .bloc-price .price-row .group-text-dashed {
+    text-align: center;
+    position: relative;
+    right: 5rem;
+  }
+
+  .text-group-two {
+    text-align: center;
+    position: relative;
+    right: 4.5rem;
+  }
+
+  .text-group-two-ex {
+    text-align: left;
+    position: relative;
+    left: 4rem;
+  }
+
+  span.un-pourcent-frais {
+    font-size: 30px !important;
+  }
+
+  span.cash-on-pdv {
+    font-size: 20px !important;
+    margin-left: -240px;
+  }
+
+  span.cash-on-pdv .bold {
+    font-weight: bold;
+    font-family: "Avenir-black", serif;
+  }
+
+  .bloc-price .amount {
+    font-size: 40px !important;
+  }
+
+  .bloc-price .percent {
+    font-size: 25px;
+  }
+
+  .tarifs-web-bloc .amount-green {
+    text-align: -webkit-center;
+    position: relative;
+    right: 5rem;
+  }
+}
+
+/*
+* MEDIA QUERIES NOS DISTRIBUTEURS SECTION 1
+*/
+
+@media (min-width: 768px) {
+  .groups-fields-devenir-dist:nth-child(1) .invalid-tooltip {
+    margin-left: 30.9%;
+    margin-top: -4%;
+  }
+
+  #devenir-distributeur {
+    padding-top: 100px;
+  }
+  .fa-asterisk:before {
+    font-size: 9px;
+    color: #529e1f;
+  }
+
+  /** .hero-wrap {
+        margin-top: 100px
+    }**/
+}
+
+@media (min-width: 1440px) {
+  .distributorBlock .block-text {
+    margin-top: 70px;
+  }
+
+  .titleDiv {
+    font-size: 55px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .distributorBlock .textDistributor {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .group-fields {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+  }
+
+  .fields {
+    width: 100% !important;
+  }
+
+  .fields::placeholder {
+    font-size: 13px !important;
+  }
+}
+
+/*
+* MEDIA QUERIES OUVRIR UN COMPTE SECTION 1
+*/
+
+@media (max-width: 1024px) {
+  .titleActu {
+    font-size: 25px !important;
+  }
+
+  .titleSubDiv {
+    font-size: 23px !important;
+  }
+
+  .push-CI {
+    font-size: 20px !important;
+  }
+
+  .code-QR {
+    position: relative;
+    left: 60%;
+  }
+
+  .group-code-qr {
+    position: relative;
+    bottom: 5%;
+  }
+
+  .white-bg {
+    width: 350px;
+    position: relative;
+    right: 15%;
+  }
+
+  .white-bg .title-h6 {
+    font-size: 12px !important;
+  }
+
+  .white-bg .illustration {
+    width: 70px !important;
+    height: 70px !important;
+  }
+
+  .open-account .div-alex {
+    width: 250px !important;
+  }
+
+  .open-account .img-alex {
+    position: relative !important;
+    top: 17% !important;
+  }
+
+  .alex-block {
+    position: relative;
+    top: 18%;
+    right: 11%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .code-QR {
+    position: relative !important;
+    left: 150%;
+  }
+
+  .storesandQR {
+    margin-left: 1px;
+  }
+
+  .img-all-in-one {
+    position: relative;
+    top: 35% !important;
+    left: 0 !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .img-alex {
+    /*border: 1px solid;*/
+    position: absolute;
+    top: -20rem;
+  }
+
+  .img-all-in-one {
+    position: relative;
+    top: 35%;
+    left: 15%;
+  }
+
+  .all-in-one {
+    padding: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .all-in-one {
+    padding: 50px 70px;
+  }
+
+  .all-in-one .bloc-left {
+    padding-top: 10%;
+  }
+
+  .how-it-works {
+    padding: 90px 60px;
+
+    margin-bottom: 70px;
+
+    margin-top: 60px;
+
+    position: relative;
+  }
+
+  .how-it-works:before {
+    content: url("../images/groupe-4570.svg");
+
+    position: absolute;
+
+    z-index: 1;
+
+    left: -110px;
+
+    top: -100px;
+  }
+
+  /****/
+}
+@media (min-width: 575px) {
+  .solutiondisplayformobile {
+    display: none;
+  }
+}
+
+@media (max-width: 575px) {
+  .openAccountForm {
+    display: none !important;
+  }
+
+  .storesandQR {
+    margin-left: 1px;
+  }
+
+  .alex-block {
+    position: relative;
+    top: 6%;
+    right: -17%;
+  }
+
+  .img-alex {
+    width: 280px !important;
+  }
+  .solutiondisplayforweb {
+    display: none;
+  }
+  /**
+    .img-all-in-one {
+        display: none;
+    }**/
+
+  #howWork .firstRow {
+    display: flex;
+    justify-content: center;
+  }
+
+  .textUnderImageBr {
+    display: none;
+  }
+
+  .lasthowitworkImg {
+    position: relative;
+    left: 0%;
+  }
+}
+
+/*
+MEDIA QUERIES FOOTER
+*/
+@media (max-width: 768px) {
+  .divStore {
+    position: absolute;
+    top: -7%;
+  }
+
+  .footer-number .social-icons {
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 1000px) {
+  .divStore {
+    position: relative;
+    top: -8%;
+  }
+
+  .footer-number .social-icons {
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 575px) {
+  .reseaux {
+    position: relative !important;
+    bottom: 23px !important;
+  }
+
+  .divStore a img {
+    width: 130px !important;
+    height: 40px !important;
+  }
+}
+
+/*
+MEDIA QUERIES MOBILE MAP
+*/
+
+@media (max-width: 425px) {
+  .leafletMap {
+    margin-top: 4rem;
+    z-index: 0;
+  }
+  .homepage .titleDiv {
+    font-size: 29px !important;
+  }
+}
+
+@media screen and (max-width: 575px) and (min-width: 426px) {
+  .leafletMap {
+    margin-top: 4rem;
+    z-index: 0;
+  }
+}
+
+/**
+CANCEL CONTAINER
+**/
+.container.no-container {
+  margin: 0px !important;
+  padding: 0;
+  overflow-x: hidden;
+  max-width: 100% !important;
+}
+
+@media (min-width: 780px) {
+  /***/
+  .becomeDistributor .fields {
+    width: 70%;
+  }
+}
+
+@media (max-width: 780px) {
+  /***/
+  .becomeDistributor .field-capital .fields,
+  .becomeDistributor .field-operation-amount .fields {
+    width: 100%;
+  }
+}
+
+.becomeDistributor .fields {
+  color: #000;
+  font-weight: bold;
+}
+
+.tab_list li:not(:last-child) {
+  margin-right: 5%;
+}
+
+@media (min-width: 992px) {
+  .img-rechargez,
+  .img-pay,
+  .img-buy,
+  .img-transfert {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .img-rechargez,
+  .img-pay,
+  .img-buy,
+  .img-transfert {
+    width: 50%;
+    height: auto;
+  }
+
+  .block-img {
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) {
+  .vitualCard {
+    left: 4%;
+  }
+}
+
+@media (max-width: 767px) {
+  .displaycardweb {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .versionmobile-valeurs-et-visions {
+    display: none;
+  }
+}
+
+@media (max-width: 1023px) {
+  .versionweb-valeurs-et-visions {
+    display: none;
+  }
+}
+
+@media (max-width: 1649px) {
+  .tarifs-web-bloc .amount-green {
+    right: 0rem;
+  }
+}
+
+@media (min-width: 2000px) {
+  .cardIndex .titleCard {
+    font: normal bold 22px Poppins;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .cartePush {
+    padding-left: 8rem !important;
+  }
+}
+
+.homepage .titleDiv {
+  padding-bottom: 40px !important;
+}
+
+@media screen and (max-width: 1300px) and (min-width: 1200px) {
+  .cartePush {
+    padding-left: 6rem !important;
+  }
+}
+
+@media screen and (max-width: 1144px) and (min-width: 800px) {
+  .cartePush {
+    padding-left: 6rem !important;
+  }
+}
+
+@media screen and (max-width: 1144px) and (min-width: 1025px) {
+  .tarifs-web-bloc .amount-green {
+    right: -7rem;
+  }
+
+  .bloc-price {
+    padding: 130px 30px 50px !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .how-it-works {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .howitworkImg,
+  .lasthowitworkImg {
+    width: 40% !important;
+  }
+
+  .how-it-works {
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 60px;
+    padding-top: 40px;
+  }
+
+  .textUnderImage {
+    margin-bottom: 30px;
+  }
+
+  .how-it-works:before {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1144px) {
+  .find-agency {
+    font-size: 12px;
+  }
+
+  .alex-block {
+    top: 8%;
+  }
+}
+
+@media (max-width: 1144px) {
+  .frais-mensuels-2 {
+    text-align: center;
+    position: relative;
+    left: 6%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .img-carte h6 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1505px) {
+  .cartePush {
+    padding-left: 6rem !important;
+  }
+
+  .cartePush .divText {
+    position: relative;
+    left: 15%;
+    width: 80% !important;
+  }
+}
+@media (max-width: 992px) {
+  .textActu {
+    font: normal normal 600 20px Avenir;
+    font-weight: 100 !important;
+    text-align: center;
+  }
+}
+@media (min-width: 473px) {
+  .bloc-price .last-fact span {
+    font-size: 25px !important;
+  }
+  .bloc-price .frais-mensuels-1 span {
+    float: left;
+  }
+}
+@media (max-width: 476px) {
+  .bloc-price .last-fact span {
+    font-size: 16px !important;
+  }
+}
+@media (min-width: 426px) and (max-width: 575px) {
+  .faqBlock {
+    margin-top: 75px;
+  }
+  .threemin {
+    width: 100% !important;
+    text-align: center !important;
+    left: -0.5rem !important;
+    position: relative;
+    top: 0rem;
+  }
+  .text-push-ci {
+    position: relative;
+    left: 3%;
+  }
+}
+@media (max-width: 425px) {
+  .threemin {
+    width: 100% !important;
+    text-align: center !important;
+    left: -0.5rem !important;
+    bottom: 0.3rem;
+  }
+  .text-push-ci {
+    position: relative;
+    left: 1%;
+  }
+  .un-compte-mobile {
+    margin-bottom: -10px !important;
+  }
+  .super-app-revolutionnaire {
+    margin-top: 2rem;
+    margin-bottom: -10px !important;
+  }
+  .class-retirez {
+    margin-bottom: -10px !important;
+  }
+  .findagencymobile .find-us {
+    margin: 3% 10px 3% 0px !important;
+  }
+  .findagencymobile .find-us-img {
+    margin: 3% 0px 3% -8px !important;
+  }
+}
+.li-ul,
+.faq-paragraph,
+.ol-title {
+  color: #004156;
+}
+.li-ul {
+  font-size: 18px !important;
+}
+@media (max-width: 992px) {
+  section#produits .titleDiv {
+    margin-bottom: 40px !important;
+  }
+}
+@media (max-width: 992px) {
+  .textProduct {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 512px) {
+  #superApp .titleBlock p {
+    font: normal bold 25px Poppins !important;
+    margin-bottom: 15px;
+  }
+}
+@media (max-width: 512px) {
+  #superApp .titleBlock p {
+    font: normal bold 16px Poppins !important;
+    margin-bottom: 15px;
+  }
+}
+@media (min-width: 993px) {
+  .download-app-mobile {
+    display: none;
+  }
+  .header-open-account-mobile {
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  .header-open-account-web {
+    display: none;
+  }
+  .qr-code-img,
+  .download-app-web {
+    display: none;
+  }
+  .call-to-action-mobile {
+    background-color: #fff;
+    padding: 15px;
+  }
+  .call-to-action-mobile input {
+    width: 100% !important;
+  }
+  .open-account,
+  .open-account .titleActu,
+  .open-account .titleSubDiv {
+    text-align: center;
+    font-weight: normal !important;
+  }
+  .open-account .react-tel-input {
+    position: relative;
+    left: 0%;
+  }
+  .responsive-pourcent-frais {
+    font-family: "Avenir-Black", serif;
+    text-align: center;
+  }
+}
+@media (max-width: 600px) {
+  .call-to-action-mobile h6 {
+    font-size: 15px;
+  }
+  .call-to-action-mobile h6 {
+    font-size: 15px;
+  }
+}
+@media (max-width: 350px) {
+  .alex-block {
+    left: 0% !important;
+  }
+}
+
+.home-modal .react-tel-input {
+  position: relative;
+  left: 26%;
+}
+
+.home-modal .react-tel-input .form-control {
+  width: 50%;
+  padding-left: 55px;
+}
+
+/*** Zone conversion  **/
+
+@media (min-width: 576px) {
+  .title-frais {
+    margin-bottom: 4rem;
+  }
+}
+@media (max-width: 575px) {
+  .title-frais {
+    margin-bottom: 8rem;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 890px) {
+  .describe-fees {
+    margin-left: -2rem;
+    font-size: 20px;
+    line-height: 1.4;
+  }
+}
+@media (max-width: 1024px) {
+  span.percent {
+    font-size: 20px;
+  }
+}
+@media (max-width: 570px) {
+  .details-row {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 750px) {
+  .ajust-details-to-left-1 {
+    margin-left: -1rem;
+  }
+  .ajust-details-to-left-2 {
+    margin-left: -2rem;
+  }
+}
+
+@media (max-width: 750px) {
+  .ajust-details-to-left-1 {
+    margin-left: -1rem;
+  }
+  .ajust-details-to-left-2 {
+    margin-left: -2rem;
+  }
+}
+
+@media (max-width: 1650px) and (min-width: 1145px) {
+  .ajust-single-amount-web {
+    padding-left: 7rem;
+  }
+}
+
+@media (max-width: 1144px) and (min-width: 1025px) {
+  .ajust-single-amount-web {
+    padding-left: 14rem;
+  }
+}
