@@ -15,7 +15,7 @@
                 className: "d-inline-flex mx-3",
                 href: "https://apps.apple.com/ng/app/push-ci/id1601308812",
                 children: (0, l.jsx)("img", {
-                  alt: "Push App Store",
+                  alt: "push App Store",
                   src: "/images/app-store.png",
                   className: "img-fluid",
                 }),
@@ -24,7 +24,7 @@
                 className: "d-inline-flex mx-2",
                 href: "https://play.google.com/store/apps/details?id=com.panelyscash.app",
                 children: (0, l.jsx)("img", {
-                  alt: "Push Play Store",
+                  alt: "push Play Store",
                   src: "/images/google-play-store.png",
                   className: "img-fluid",
                 }),
@@ -117,7 +117,7 @@
                   children: [
                     "Des questions ? Nous vous r\xe9pondons",
                     (0, l.jsx)("span", {
-                      style: { color: "#539F20" },
+                      style: { color: "#d9534f" },
                       children: "_",
                     }),
                   ],
@@ -150,7 +150,7 @@
                                   children: (0, l.jsx)("span", {
                                     className:
                                       "h5 font-weight-normal faq-questions",
-                                    children: "Comment devenir client Push ?",
+                                    children: "Comment devenir client push ?",
                                   }),
                                 }),
                               }),
@@ -166,7 +166,7 @@
                                   (0, l.jsx)("p", {
                                     className: "faq-paragraph",
                                     children:
-                                      "Pour ouvrir un compte PUSH plusieurs possibilit\xe9s s'offrent \xe0 vous:",
+                                      "Pour ouvrir un compte push plusieurs possibilit\xe9s s'offrent \xe0 vous:",
                                   }),
                                   (0, l.jsx)("p", {
                                     children: (0, l.jsxs)("ol", {
@@ -174,7 +174,7 @@
                                         (0, l.jsx)("li", {
                                           className: "ol-title text-green",
                                           children:
-                                            "En t\xe9l\xe9chargeant l'application mobile PUSH CI disponible sur Playstore et Appstore",
+                                            "En t\xe9l\xe9chargeant l'application mobile push disponible sur Playstore et Appstore",
                                         }),
                                         (0, l.jsxs)("ul", {
                                           className: "ul-parent",
@@ -182,7 +182,7 @@
                                             (0, l.jsx)("li", {
                                               className: "li-ul",
                                               children:
-                                                "Saisir son num\xe9ro de t\xe9l\xe9phone et choisir votre code Push \xe0 5 chiffres,",
+                                                "Saisir son num\xe9ro de t\xe9l\xe9phone et choisir votre code push \xe0 5 chiffres,",
                                             }),
                                             (0, l.jsx)("li", {
                                               className: "li-ul",
@@ -202,14 +202,14 @@
                                             (0, l.jsx)("li", {
                                               className: "li-ul",
                                               children:
-                                                "Choisir une carte Virtuelle ou Physique pour commencer votre exp\xe9rience Push",
+                                                "Choisir une carte Virtuelle ou Physique pour commencer votre exp\xe9rience push",
                                             }),
                                           ],
                                         }),
                                         (0, l.jsx)("li", {
                                           className: "ol-title text-green",
                                           children:
-                                            "En se rendant dans un point de vente PUSH muni d'une pi\xe8ce d'identit\xe9 en cours de validit\xe9",
+                                            "En se rendant dans un point de vente push muni d'une pi\xe8ce d'identit\xe9 en cours de validit\xe9",
                                         }),
                                         (0, l.jsx)("p", {
                                           className: "faq-paragraph",
@@ -243,7 +243,7 @@
                                     className:
                                       "h5 font-weight-normal faq-questions",
                                     children:
-                                      "Comment recharger une carte Push ?",
+                                      "Comment recharger une carte push ?",
                                   }),
                                 }),
                               }),
@@ -259,7 +259,7 @@
                                   (0, l.jsx)("p", {
                                     className: "faq-paragraph",
                                     children:
-                                      "Avec PUSH, vous avez la possibilit\xe9 de recharger votre carte \xe0 travers 3 canaux:",
+                                      "Avec push, vous avez la possibilit\xe9 de recharger votre carte \xe0 travers 3 canaux:",
                                   }),
                                   (0, l.jsxs)("ol", {
                                     children: [
@@ -269,7 +269,7 @@
                                           (0, l.jsx)("span", {
                                             className: "text-green",
                                             children:
-                                              "Depuis l'application mobile PUSH CI",
+                                              "Depuis l'application mobile push",
                                           }),
                                           " pour un rechargement via n'importe quel r\xe9seau mobile money.",
                                         ],
@@ -296,7 +296,7 @@
                                           " valable quelque soit votre op\xe9rateur t\xe9l\xe9phonique, vous choisissez l'option ",
                                           (0, l.jsx)("b", {
                                             children:
-                                              "1- Rechargement carte Push,",
+                                              "1- Rechargement carte push,",
                                           }),
                                           " s\xe9lectionnez votre op\xe9rateur puis vottre num\xe9ro de t\xe9l\xe9phone mobile money suivi du montant souhait\xe9 pour le rechargement en suivant les instructions de votre op\xe9rateur mobile money.",
                                         ],
@@ -307,7 +307,7 @@
                                           "Dans tous nos ",
                                           (0, l.jsx)("span", {
                                             className: "text-green",
-                                            children: "points de vente Push",
+                                            children: "points de vente push",
                                           }),
                                           " muni de votre t\xe9l\xe9phone.",
                                         ],
@@ -339,7 +339,7 @@
                                     className:
                                       "h5 font-weight-normal faq-questions",
                                     children:
-                                      "Comment retirer de l\u2019argent avec une carte Push ?",
+                                      "Comment retirer de l\u2019argent avec une carte push ?",
                                   }),
                                 }),
                               }),
@@ -365,9 +365,9 @@
                                           (0, l.jsx)("span", {
                                             className: "text-green",
                                             children:
-                                              "En vous rendant dans l'un de nos points de vente Push ",
+                                              "En vous rendant dans l'un de nos points de vente push ",
                                           }),
-                                          "muni de votre t\xe9l\xe9phone quelque soit la carte Push que vous poss\xe9dez",
+                                          "muni de votre t\xe9l\xe9phone quelque soit la carte push que vous poss\xe9dez",
                                         ],
                                       }),
                                       (0, l.jsxs)("li", {
@@ -378,7 +378,7 @@
                                             children:
                                               "Dans tous les guichets automatiques",
                                           }),
-                                          "  (uniquement pour les d\xe9tenteurs de la Carte Push)",
+                                          "  (uniquement pour les d\xe9tenteurs de la Carte push)",
                                         ],
                                       }),
                                     ],
@@ -458,7 +458,7 @@
                                               href: "https://www.facebook.com/pushci/",
                                               target: "_blank",
                                               rel: "noreferrer",
-                                              children: "PUSH CI",
+                                              children: "push",
                                             }),
                                           }),
                                         ],
@@ -549,7 +549,7 @@
                           className: "".concat(
                             a("/push-business.html") && "active-nav"
                           ),
-                          children: "Push business",
+                          children: "push business",
                         }),
                       }),
                       (0, l.jsx)("li", {
@@ -602,11 +602,11 @@
                         children: (0, l.jsx)("a", {
                           className: "d-flex",
                           children: (0, l.jsx)("img", {
-                            src: "/images/logo.svg",
+                            src: "/images/",
                             style: { maxWidth: "100px" },
                             className: "img-fluid logo-img",
-                            alt: "Push",
-                            title: "Push By Panelys",
+                            alt: "push",
+                            title: "push By Panelys",
                           }),
                         }),
                       }),

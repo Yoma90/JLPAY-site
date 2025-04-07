@@ -46,7 +46,7 @@
                                 (0, e.jsxs)("p", {
                                   className: "text-white titleFind",
                                   children: [
-                                    "Nos agences PUSH r\xe9volutionnent ",
+                                    "Nos agences push r\xe9volutionnent ",
                                     (0, e.jsx)("br", {}),
                                     " l\u2019usage des Cartes Bancaires !",
                                   ],
@@ -57,9 +57,9 @@
                                   children: [
                                     "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte ",
                                     (0, e.jsx)("br", {}),
-                                    " PUSH), retirez GRATUITEMENT votre argent,",
+                                    " push), retirez GRATUITEMENT votre argent,",
                                     (0, e.jsx)("br", {}),
-                                    " avec ou sans votre carte, dans le point PUSH ",
+                                    " avec ou sans votre carte, dans le point push ",
                                     (0, e.jsx)("br", {}),
                                     " le plus proche de chez vous !",
                                   ],
@@ -74,12 +74,12 @@
                                   className:
                                     "text-white titleFind titleFind-mobile",
                                   children:
-                                    "Nos agences PUSH r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
+                                    "Nos agences push r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
                                 }),
                                 (0, e.jsx)("p", {
                                   className: "text-white textFind-mobile",
                                   children:
-                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte PUSH), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point PUSH le plus proche de chez vous !",
+                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte push), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point push le plus proche de chez vous !",
                                 }),
                               ],
                             }),
@@ -138,7 +138,7 @@
                                 (0, e.jsxs)("p", {
                                   className: "text-white titleFind",
                                   children: [
-                                    "Nos agences PUSH r\xe9volutionnent ",
+                                    "Nos agences push r\xe9volutionnent ",
                                     (0, e.jsx)("br", {}),
                                     " l\u2019usage des Cartes Bancaires !",
                                   ],
@@ -149,9 +149,9 @@
                                   children: [
                                     "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte ",
                                     (0, e.jsx)("br", {}),
-                                    " PUSH), retirez GRATUITEMENT votre argent,",
+                                    " push), retirez GRATUITEMENT votre argent,",
                                     (0, e.jsx)("br", {}),
-                                    " avec ou sans votre carte, dans le point PUSH ",
+                                    " avec ou sans votre carte, dans le point push ",
                                     (0, e.jsx)("br", {}),
                                     " le plus proche de chez vous !",
                                   ],
@@ -166,12 +166,12 @@
                                   className:
                                     "text-white titleFind titleFind-mobile",
                                   children:
-                                    "Nos agences PUSH r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
+                                    "Nos agences push r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
                                 }),
                                 (0, e.jsx)("p", {
                                   className: "text-white textFind-mobile",
                                   children:
-                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte PUSH), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point PUSH le plus proche de chez vous !",
+                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte push), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point push le plus proche de chez vous !",
                                 }),
                               ],
                             }),

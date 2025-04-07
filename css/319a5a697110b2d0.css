@@ -894,11 +894,11 @@ body {
   white-space: nowrap;
 }
 @media (max-width: 1780px) {
-  .displaycardweb .cartePush .centerDiv {
+  .displaycardweb .cartepush .centerDiv {
     position: relative;
     left: 15% !important;
   }
-  .displaycardweb .cartePush {
+  .displaycardweb .cartepush {
     padding-left: 0 !important;
   }
   .image-carte-virtuelle {
@@ -1129,7 +1129,7 @@ body {
   .firstBlock {
     margin-bottom: -14px !important;
   }
-  .titleAvecPush {
+  .titleAvecpush {
     padding-top: 10% !important;
     padding-bottom: 0 !important;
     margin-bottom: -4rem;
@@ -1217,7 +1217,7 @@ body {
   .display-web-block {
     display: none;
   }
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 2% !important;
   }
@@ -1248,16 +1248,16 @@ body {
     height: auto !important;
     margin-top: 40% !important;
   }
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal 500 17px Avenir !important;
-    color: #074756;
+    color: #004156;
   }
-  .displaycardweb .cartePush {
+  .displaycardweb .cartepush {
     height: 0% !important;
   }
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal 500 18px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .find-us {
     max-height: 362.36px;
@@ -1452,22 +1452,22 @@ body {
   .lavirtuellepush {
     width: 45%;
   }
-  .cartePush .divText {
+  .cartepush .divText {
     width: 100% !important;
     padding-left: 43% !important;
   }
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal 700 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal 700 23px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .btn-activer-gratuitement {
     position: relative;
   }
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 14%;
     width: 74% !important;
@@ -1522,7 +1522,7 @@ body {
   .displaycardmobile {
     display: none !important;
   }
-  .displaycardweb .cartePush .centerDiv {
+  .displaycardweb .cartepush .centerDiv {
     position: relative;
     left: 9% !important;
   }
@@ -1534,7 +1534,7 @@ body {
     position: relative;
     right: 1.4rem;
   }
-  .displaycardweb .cartePush {
+  .displaycardweb .cartepush {
     padding-left: 0 !important;
   }
   .displaycardweb .vitualCard {
@@ -1550,7 +1550,7 @@ body {
   }
   .titleBlockParagraph {
     font: normal normal 500 17px Avenir !important;
-    color: #074756;
+    color: #004156;
   }
   .btn-acheter-carte {
     position: relative;
@@ -1583,7 +1583,7 @@ body {
   }
 }
 @media (min-width: 1417px) and (max-width: 1440px) {
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 15%;
     width: 49% !important;
@@ -1593,13 +1593,13 @@ body {
     position: relative;
     left: 14%;
   }
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal 700 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .divText .lavirtuellepush .titleBlockParasgraph {
     font: normal normal 700 23px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .btn-activer-gratuitement,
   .vitualCard {
@@ -1626,10 +1626,10 @@ body {
     position: relative;
     left: 2%;
   }
-  .cartePush .divText .titleBlockParagraph0,
+  .cartepush .divText .titleBlockParagraph0,
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal 700 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .btn-activer-gratuitement {
     position: relative;
@@ -1657,7 +1657,7 @@ body {
   }
 }
 @media (min-width: 2200px) and (max-width: 2560px) {
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: -10%;
     width: 90% !important;
@@ -1667,13 +1667,13 @@ body {
     position: relative;
     left: 14%;
   }
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal 700 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal 700 23px Avenir;
-    color: #074756;
+    color: #004156;
   }
   .vitualCard {
     max-width: 80rem !important;
@@ -2341,7 +2341,7 @@ body {
   }
 }
 @media screen and (min-width: 1500px) {
-  .cartePush {
+  .cartepush {
     padding-left: 8rem !important;
   }
 }
@@ -2349,12 +2349,12 @@ body {
   padding-bottom: 40px !important;
 }
 @media screen and (max-width: 1300px) and (min-width: 1200px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
 }
 @media screen and (max-width: 1144px) and (min-width: 800px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
 }
@@ -2409,10 +2409,10 @@ body {
   }
 }
 @media (min-width: 1024px) and (max-width: 1505px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 15%;
     width: 80% !important;
@@ -2669,12 +2669,12 @@ body {
 .primary-menu ul.navbar-nav > li > a:not(.btn):hover {
   font-weight: 400;
   transition: all 0.5s;
-  color: #539f20 !important;
+  color: #d9534f !important;
 }
 .active-nav {
   font-weight: 400 !important;
   transition: all 0.5s !important;
-  color: #539f20 !important;
+  color: #d9534f !important;
 }
 .btn {
   font-family: Poppins, serif;
@@ -2685,21 +2685,21 @@ body {
   background: none;
 }
 .btn-primary {
-  background-color: #539f20 !important;
-  border-color: #4fae33 !important;
+  background-color: #d9534f !important;
+  border-color: #d9534f !important;
 }
 .btn-primary:focus,
 .btn-primary:hover {
-  color: #4fae33 !important;
+  color: #d9534f !important;
   background-color: transparent !important;
 }
 .btn-primaire {
-  background-color: #539f20 !important;
+  background-color: #d9534f !important;
 }
 .btn-primaire:focus,
 .btn-primaire:hover {
   color: #fff !important;
-  background-color: #539f20 !important;
+  background-color: #d9534f !important;
 }
 .btn-secondary {
   background-color: #063844 !important;
@@ -2726,7 +2726,7 @@ body {
 .cus-count {
   font-weight: 700;
   font-size: 2em;
-  background-color: #2f9627 !important;
+  background-color: #d9534f !important;
 }
 .bg-blue {
   background-color: #004156 !important;
@@ -2738,7 +2738,7 @@ body {
   color: #004156 !important;
 }
 .color-green {
-  color: #4daf27 !important;
+  color: #d9534f !important;
 }
 .card-part {
   background-color: #e3eaeb !important;
@@ -2804,24 +2804,24 @@ body {
   z-index: 10;
   padding: 0.3em 1em;
   right: 3em;
-  background-color: #539f20 !important;
-  border-color: #539f20 !important;
+  background-color: #d9534f !important;
+  border-color: #d9534f !important;
 }
 .cus-btn:focus,
 .cus-btn:hover {
   background: none;
 }
 .cus-btn-open {
-  background-color: #539f20 !important;
-  border-color: #539f20 !important;
+  background-color: #d9534f !important;
+  border-color: #d9534f !important;
 }
 .cus-btn-open:focus,
 .cus-btn-open:hover {
   background-color: transparent;
-  color: #539f20 !important;
+  color: #d9534f !important;
 }
 .bg-cs-36 {
-  background-color: #aee1f4;
+  background-color: #f0ecbc;
 }
 .cs-grad-36 {
   background: #dbeff6;
@@ -2829,7 +2829,7 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#dbeff6",endColorstr="#aee1f4",GradientType=1);
 }
 .blue-propos {
-  color: #074756 !important;
+  color: #004156 !important;
 }
 .absolute-img {
   width: 35%;
@@ -2931,16 +2931,16 @@ p {
   border-color: #dc3545;
 }
 .blue-074756 {
-  color: #074756 !important;
+  color: #004156 !important;
 }
 .tarif-card {
 }
 .actives {
   color: #fff;
   font-weight: 700;
-  border: 1px solid #539f20;
+  border: 1px solid #d9534f;
   padding: 10px;
-  background-color: #539f20;
+  background-color: #d9534f;
   font: normal normal 700 20px/22px Poppins;
 }
 .list-group li a {
@@ -3006,14 +3006,14 @@ p {
 }
 .card-pb .card-pb-body .card-pb-img.blue,
 .card-pb .card-pb-body .lottie.blue {
-  background-color: #074756;
+  background-color: #004156;
 }
 .card-pb .card-pb-body .card-pb-img.green,
 .card-pb .card-pb-body .lottie.green {
-  background-color: #539f20;
+  background-color: #d9534f;
 }
 .card-pb .card-pb-body .card-pb-title {
-  color: #074756;
+  color: #004156;
   text-shadow: 0 0 86px rgba(0, 0, 0, 0.161);
   font-family: Poppins, sans-serif;
   font-weight: bolder;
@@ -3021,7 +3021,7 @@ p {
   margin-bottom: 1rem;
 }
 .card-pb .card-pb-body .card-pb-paragraph {
-  color: #074756;
+  color: #004156;
   text-align: center;
 }
 .border-32 {
@@ -3117,7 +3117,7 @@ p {
 }
 @media screen and (min-width: 426px) {
   .titleHead {
-    color: #074756;
+    color: #004156;
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.13);
     font-style: normal;
     font-feature-settings: normal;
@@ -3129,7 +3129,7 @@ p {
 }
 @media screen and (max-width: 575px) {
   .titleHead {
-    color: #074756;
+    color: #004156;
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.13);
     font-style: normal;
     font-feature-settings: normal;
@@ -3244,7 +3244,7 @@ p {
 }
 .titleSubDiv {
   opacity: 1;
-  color: #074756;
+  color: #004156;
   text-shadow: 0 0 20px rgba(0, 0, 0, 0.13);
   font-style: normal;
   font-feature-settings: normal;
@@ -3395,7 +3395,7 @@ p {
   text-shadow: 0 0 #000;
 }
 .listTypeGreen li {
-  color: #074756;
+  color: #004156;
   line-height: 0px;
   list-style: none;
   font: normal normal 16px Avenir;
@@ -3477,7 +3477,7 @@ p {
     letter-spacing: 0;
     text-indent: 0;
     line-height: 1.2;
-    color: #074756;
+    color: #004156;
   }
 }
 #produits .textCarousel div {
@@ -3590,7 +3590,7 @@ p {
   width: 230px;
   border: none;
   color: #fff;
-  background: #539f20;
+  background: #d9534f;
   font-weight: 700;
   font-family: Poppins;
   font-size: 15px;
@@ -3599,7 +3599,7 @@ p {
   text-align: center;
   font: normal normal 800 15px Poppins;
   letter-spacing: 0;
-  color: #074756;
+  color: #004156;
 }
 #partenaire .divImg img {
   padding: 20px 0;
@@ -3778,7 +3778,7 @@ textarea {
   line-height: normal;
 }
 .text-green {
-  color: #539f20;
+  color: #d9534f;
 }
 #popularTopics .text-green {
   font-weight: 700;
@@ -4000,7 +4000,7 @@ textarea {
   opacity: 50%;
 }
 #superApp .btnBuy,
-.cartePush .btnBuy,
+.cartepush .btnBuy,
 .vitualCard .btnBuy {
   position: relative;
   bottom: 0;
@@ -4008,7 +4008,7 @@ textarea {
   width: 230px;
   border: none;
   color: #fff;
-  background: #539f20;
+  background: #d9534f;
   font-weight: 700;
   font-family: Poppins, serif;
   font-size: 15px;
@@ -4021,7 +4021,7 @@ textarea {
   opacity: 1;
 }
 .cardIndex {
-  background: rgba(0, 88, 113, 0.098) 0 0 no-repeat padding-box;
+  background: rgba(255, 255, 255, 0.098) 0 0 no-repeat padding-box;
   border: none;
   margin-bottom: 25px;
 }
@@ -4047,39 +4047,39 @@ textarea {
 .cardIndex .titleCard small {
   font-size: 15px;
 }
-.cartePush {
+.cartepush {
   background-image: linear-gradient(
     rgba(30, 70, 84, 0.2),
     rgba(104, 172, 64, 0.2)
   );
 }
 @media (max-width: 450px) {
-  .cartePush .btnBuy {
+  .cartepush .btnBuy {
     width: 100%;
     height: false;
     font-size: 15px !important;
   }
 }
-.cartePush .divText .titleBlock {
+.cartepush .divText .titleBlock {
   letter-spacing: 0;
-  color: #074756;
+  color: #004156;
   opacity: 1;
   line-height: flase;
   text-shadow: 0 0 86px rgba(0, 0, 0, 0.161);
   font: normal normal 800 30px Poppins;
 }
-.cartePush .divText {
+.cartepush .divText {
   width: 80%;
 }
 @media (max-width: 450px) {
-  .cartePush .divText {
+  .cartepush .divText {
     width: 80%;
     height: false;
   }
 }
-.cartePush .divText p {
+.cartepush .divText p {
   font: normal normal normal 20px Avenir;
-  color: #074756;
+  color: #004156;
   font-size: 18px;
 }
 .flex-container {
@@ -4103,7 +4103,7 @@ textarea {
 }
 .vitualCard .divText .titleBlock {
   letter-spacing: 0;
-  color: #074756;
+  color: #004156;
   opacity: 1;
   line-height: flase;
   text-shadow: 0 0 86px rgba(0, 0, 0, 0.161);
@@ -4117,7 +4117,7 @@ textarea {
 }
 .vitualCard .divText p {
   font: normal normal normal 20px Avenir;
-  color: #074756;
+  color: #004156;
   font-size: 18px;
 }
 .vitualCard .cardImg img {
@@ -4151,7 +4151,7 @@ textarea {
 }
 #superApp .divText .titleBlock {
   letter-spacing: 0;
-  color: #074756;
+  color: #004156;
   opacity: 1;
   line-height: flase;
   text-shadow: 0 0 86px rgba(0, 0, 0, 0.161);
@@ -4184,11 +4184,11 @@ textarea {
 }
 #tabs p:not(:first-child) {
   font: normal normal normal 20px Avenir;
-  color: #074756;
+  color: #004156;
   letter-spacing: 0;
 }
 @media (min-width: 2024px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
   .image-carte-virtuelle {
@@ -4201,13 +4201,13 @@ textarea {
   }
 }
 @media (min-width: 1640px) {
-  .cartePush,
+  .cartepush,
   .vitualCard {
     min-height: 25rem;
   }
 }
 @media (min-width: 1024px) {
-  .cartePush {
+  .cartepush {
     padding-left: 12rem !important;
   }
   .image-carte-virtuelle {
@@ -4329,7 +4329,7 @@ textarea {
   }
 }
 @media (min-width: 2200px) {
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: -10%;
     width: 90% !important;
@@ -4398,7 +4398,7 @@ textarea {
   color: #519d1e;
 }
 .blue-light {
-  color: #074756;
+  color: #004156;
 }
 .price {
   position: relative;
@@ -4557,8 +4557,8 @@ button.find-agency {
 .btn-success:focus,
 .btn-success:hover {
   background-color: #fff;
-  border: 1px solid #539f20;
-  color: #539f20;
+  border: 1px solid #d9534f;
+  color: #d9534f;
 }
 .btn-light:focus,
 .btn-light:hover {
@@ -4567,7 +4567,7 @@ button.find-agency {
   color: #fff;
 }
 .btn-success {
-  background-color: #539f20;
+  background-color: #d9534f;
 }
 span.form-currency {
   margin-top: 45px;
@@ -4698,7 +4698,7 @@ span.form-currency {
 }
 @media screen and (min-width: 1024px) {
   #produits .card-img {
-    border-bottom: 5px solid #539f20;
+    border-bottom: 5px solid #d9534f;
     position: absolute;
     width: 100%;
     left: 0;
@@ -4825,7 +4825,7 @@ span.form-currency {
   .home-top .list-group-horizontal {
     margin-top: -100px;
   }
-  .titleAvecPush {
+  .titleAvecpush {
     padding: 0 !important;
   }
   .cardIndex .titleCard {
@@ -4867,7 +4867,7 @@ span.form-currency {
   }
 }
 @media (min-width: 1024px) and (max-width: 1294px) {
-  .cartePush {
+  .cartepush {
     padding-left: 4% !important;
   }
 }
@@ -4915,12 +4915,12 @@ span.form-currency {
   }
 }
 @media screen and (min-width: 1200px) {
-  .cartePush,
+  .cartepush,
   .vitualCard {
     padding-top: 113px !important;
     padding-bottom: 31px;
   }
-  .cartePush .cardImg img,
+  .cartepush .cardImg img,
   .vitualCard .cardImg img {
     width: 24%;
     height: auto;
@@ -5205,7 +5205,7 @@ section#produits .titleDiv {
   font-family: Poppins;
   margin-top: 8px;
   font-weight: 700;
-  color: #539f20;
+  color: #d9534f;
   cursor: pointer;
 }
 .sms-sent {

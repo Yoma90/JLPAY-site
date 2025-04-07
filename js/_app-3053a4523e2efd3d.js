@@ -1443,7 +1443,7 @@
       })("versions", []).push({
         version: r.version,
         mode: n(7346) ? "pure" : "global",
-        copyright: "\xa9 2020 Denis Pushkarev (zloirock.ru)",
+        copyright: "\xa9 2020 Denis pushkarev (zloirock.ru)",
       });
     },
     2222: function (t, e, n) {
@@ -2154,7 +2154,7 @@
                                 className:
                                   "text-center text-lg-left mb-2 mb-lg-0 Poppins blue",
                                 children:
-                                  "Copyright \xa9 2022 Push Tous droits r\xe9serv\xe9s.",
+                                  "Copyright \xa9 2022 push Tous droits r\xe9serv\xe9s.",
                               }),
                             }),
                             (0, r.jsx)("div", {
@@ -2167,7 +2167,7 @@
                                   className: "nav-item",
                                   children: (0, r.jsx)("a", {
                                     className: "nav-link",
-                                    href: "/documents/Termes & Conditions_CFV_Carte Push by Panelys.pdf",
+                                    href: "/documents/Termes & Conditions_CFV_Carte push by Panelys.pdf",
                                     children: "Termes & Conditions",
                                   }),
                                 }),
@@ -2265,7 +2265,7 @@
                           className:
                             "text-center text-lg-left mb-2 mb-lg-0 Poppins blue",
                           children:
-                            "Copyright \xa9 2022 Push Tous droits r\xe9serv\xe9s.",
+                            "Copyright \xa9 2022 push Tous droits r\xe9serv\xe9s.",
                         }),
                       }),
                     ],

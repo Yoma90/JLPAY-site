@@ -51,7 +51,7 @@
                             children: [
                               "Rejoignez-nous maintenant",
                               (0, i.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -82,7 +82,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "Push Ci :",
+                            children: "push :",
                           }),
                           (0, i.jsxs)("ul", {
                             className:
@@ -147,7 +147,7 @@
                                 className: "social-icons-youtube",
                                 children: (0, i.jsx)("a", {
                                   "data-toggle": "tooltip",
-                                  href: "https://twitter.com/PushCi",
+                                  href: "https://twitter.com/pushCi",
                                   target: "_blank",
                                   title: "",
                                   "data-original-title": "Facebook",
@@ -247,9 +247,9 @@
                                         children: (0, i.jsxs)("i", {
                                           className: "",
                                           children: [
-                                            "\u2018Avec Push, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
+                                            "\u2018Avec push, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
                                             (0, i.jsx)("br", {}),
-                                            "Vraiment, Push nous a soulag\xe9!\u2019",
+                                            "Vraiment, push nous a soulag\xe9!\u2019",
                                           ],
                                         }),
                                       }),
@@ -284,9 +284,9 @@
                                         children: (0, i.jsxs)("i", {
                                           className: "",
                                           children: [
-                                            "\u2018Avec Push, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
+                                            "\u2018Avec push, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
                                             (0, i.jsx)("br", {}),
-                                            "Vraiment, Push nous a soulag\xe9!\u2019",
+                                            "Vraiment, push nous a soulag\xe9!\u2019",
                                           ],
                                         }),
                                       }),
@@ -335,13 +335,13 @@
                             className:
                               "blue-light titleSubDiv d-block d-md-none",
                             children:
-                              "La solution Push, une plateforme tout-en-1 !",
+                              "La solution push, une plateforme tout-en-1 !",
                           }),
                           (0, i.jsxs)("h1", {
                             className:
                               "blue-light titleSubDiv d-none d-md-block",
                             children: [
-                              "La solution Push, une ",
+                              "La solution push, une ",
                               (0, i.jsx)("br", {}),
                               " plateforme tout-en-1 !",
                             ],
@@ -356,7 +356,7 @@
                                 fontFamily: "Poppins",
                               },
                               children: [
-                                "Via notre application ou en composant le code USSD *755# , ou m\xeame en vous rendant dans le point Push le plus proche de chez vous, b\xe9n\xe9ficiez 24/7, avec ou sans internet, des services de Push ",
+                                "Via notre application ou en composant le code USSD *755# , ou m\xeame en vous rendant dans le point push le plus proche de chez vous, b\xe9n\xe9ficiez 24/7, avec ou sans internet, des services de push ",
                                 (0, i.jsx)("span", {
                                   className: "solutiondisplayformobile",
                                   children: ".",
@@ -488,7 +488,7 @@
                               (0, i.jsx)("span", {
                                 className: "font-weight-bold",
                                 children:
-                                  "( Ce num\xe9ro sera li\xe9 \xe0 votre compte Push )",
+                                  "( Ce num\xe9ro sera li\xe9 \xe0 votre compte push )",
                               }),
                               ".",
                             ],
@@ -510,7 +510,7 @@
                             children: [
                               "Je cr\xe9e mon code ",
                               (0, i.jsx)("br", {}),
-                              " secret Push \xe0 ",
+                              " secret push \xe0 ",
                               (0, i.jsx)("br", {
                                 className: "textUnderImageBr",
                               }),
@@ -595,7 +595,7 @@
                               " profitez de ",
                               (0, i.jsx)("span", {
                                 className: "font-weight-bold",
-                                children: "Push",
+                                children: "push",
                               }),
                               ".",
                             ],
@@ -651,7 +651,7 @@
                                 (0, i.jsx)("span", {
                                   className: "font-weight-bold",
                                   children:
-                                    "( Ce num\xe9ro sera li\xe9  \xe0 votre compte Push )",
+                                    "( Ce num\xe9ro sera li\xe9  \xe0 votre compte push )",
                                 }),
                                 ".",
                               ],
@@ -669,7 +669,7 @@
                             (0, i.jsx)("div", {
                               className: "text-center blue textUnderImage",
                               children:
-                                "Je cr\xe9e mon code secret Push \xe0 5 chiffres.",
+                                "Je cr\xe9e mon code secret push \xe0 5 chiffres.",
                             }),
                           ],
                         }),
@@ -723,7 +723,7 @@
                                 "F\xe9licitations, votre inscription est termin\xe9e, profitez de ",
                                 (0, i.jsx)("span", {
                                   className: "font-weight-bold",
-                                  children: "Push",
+                                  children: "push",
                                 }),
                                 ".",
                               ],
@@ -783,7 +783,7 @@
                                     className:
                                       "titleActu h5 font-weight-800 d-block d-md-none",
                                     style: {
-                                      color: "#074756",
+                                      color: "#004156",
                                       fontSize: "15px !important",
                                     },
                                     children: "Ouvrez votre compte en 3 mins !",
@@ -791,7 +791,7 @@
                                   (0, i.jsx)("p", {
                                     className:
                                       "titleActu h5 font-weight-800 d-none d-md-block",
-                                    style: { color: "#074756" },
+                                    style: { color: "#004156" },
                                     children: "Ouvrez votre compte en 3 mins !",
                                   }),
                                   (0, i.jsxs)("div", {
@@ -851,9 +851,9 @@
                                       "blue font-weight-extra-bold-poppins push-CI",
                                     style: {
                                       fontSize: "30px",
-                                      color: "#074756",
+                                      color: "#004156",
                                     },
-                                    children: "Push Ci",
+                                    children: "push",
                                   }),
                                   (0, i.jsxs)("div", {
                                     className: "d-flex align-items-center",
@@ -948,7 +948,7 @@
                                         ? (0, i.jsx)("div", {
                                             className: "sms-sent",
                                             children:
-                                              "Merci pour l'int\xe9r\xeat que vous portez \xe0 Push CI. Vous recevrez votre code d\u2019invitation par SMS.",
+                                              "Merci pour l'int\xe9r\xeat que vous portez \xe0 push. Vous recevrez votre code d\u2019invitation par SMS.",
                                           })
                                         : (0, i.jsxs)("div", {
                                             children: [
@@ -1081,7 +1081,7 @@
                                                                                         s
                                                                                       ),
                                                                                       message:
-                                                                                        "F\xe9licitations ! Votre inscription sur le site web Push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
+                                                                                        "F\xe9licitations ! Votre inscription sur le site web push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
                                                                                     },
                                                                                     i
                                                                                   ),
@@ -1258,7 +1258,7 @@
                                     className:
                                       "titleActu h5 font-weight-800 d-block d-md-none",
                                     style: {
-                                      color: "#074756",
+                                      color: "#004156",
                                       fontSize: "15px !important",
                                     },
                                     children: "Ouvrez votre compte en 3 mins !",
@@ -1266,7 +1266,7 @@
                                   (0, i.jsx)("p", {
                                     className:
                                       "titleActu h5 font-weight-800 d-none d-md-block",
-                                    style: { color: "#074756" },
+                                    style: { color: "#004156" },
                                     children: "Ouvrez votre compte en 3 mins !",
                                   }),
                                   (0, i.jsxs)("div", {
@@ -1325,7 +1325,7 @@
                                     className: "blue  push-CI Poppins",
                                     style: {
                                       fontSize: "30px",
-                                      color: "#074756",
+                                      color: "#004156",
                                     },
                                     children: "Via",
                                   }),
@@ -1363,7 +1363,7 @@
                                     className: "blue push-CI Poppins my-4",
                                     style: {
                                       fontSize: "30px",
-                                      color: "#074756",
+                                      color: "#004156",
                                     },
                                     children: "Ou",
                                   }),
@@ -1389,7 +1389,7 @@
                                             ? (0, i.jsx)("div", {
                                                 className: "sms-sent",
                                                 children:
-                                                  "Merci pour l'int\xe9r\xeat que vous portez \xe0 Push CI. Vous recevrez votre code d\u2019invitation par SMS.",
+                                                  "Merci pour l'int\xe9r\xeat que vous portez \xe0 push. Vous recevrez votre code d\u2019invitation par SMS.",
                                               })
                                             : (0, i.jsxs)("div", {
                                                 children: [
@@ -1539,7 +1539,7 @@
                                                                                                 s
                                                                                               ),
                                                                                               message:
-                                                                                                "F\xe9licitations ! Votre inscription sur le site web Push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
+                                                                                                "F\xe9licitations ! Votre inscription sur le site web push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
                                                                                             },
                                                                                             i
                                                                                           ),

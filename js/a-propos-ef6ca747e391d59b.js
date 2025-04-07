@@ -51,7 +51,7 @@
                             children: [
                               "Rejoignez-nous maintenant",
                               (0, l.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -83,7 +83,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "Push Ci :",
+                            children: "push :",
                           }),
                           (0, l.jsxs)("ul", {
                             className:
@@ -148,7 +148,7 @@
                                 className: "social-icons-youtube",
                                 children: (0, l.jsx)("a", {
                                   "data-toggle": "tooltip",
-                                  href: "https://twitter.com/PushCi",
+                                  href: "https://twitter.com/pushCi",
                                   target: "_blank",
                                   title: "",
                                   "data-original-title": "Facebook",
@@ -196,7 +196,7 @@
             children: [
               (0, l.jsx)(g(), {
                 children: (0, l.jsx)("title", {
-                  children: "Push CI | Page Apropos",
+                  children: "push | Page Apropos",
                 }),
               }),
               (0, l.jsxs)("div", {
@@ -566,7 +566,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "Push",
+                                                    children: "push",
                                                   }),
                                                   ", le compte mobile ",
                                                   (0, l.jsx)("br", {}),
@@ -629,7 +629,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "Push",
+                                                    children: "push",
                                                   }),
                                                   ", au service des ",
                                                   (0, l.jsx)("br", {}),
@@ -685,7 +685,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "Push Business",
+                                                    children: "push Business",
                                                   }),
                                                   ", la ",
                                                   (0, l.jsx)("br", {}),
@@ -761,7 +761,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "Push",
+                                                    children: "push",
                                                   }),
                                                   ", le compte mobile ",
                                                   (0, l.jsx)("br", {}),
@@ -820,7 +820,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "Push",
+                                                    children: "push",
                                                   }),
                                                   ", au service des ",
                                                   (0, l.jsx)("br", {}),
@@ -879,7 +879,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "Push Business",
+                                                    children: "push Business",
                                                   }),
                                                   ", la ",
                                                   (0, l.jsx)("br", {}),

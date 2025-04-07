@@ -51,7 +51,7 @@
                             children: [
                               "Rejoignez-nous maintenant",
                               (0, a.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -83,7 +83,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "Push Ci :",
+                            children: "push :",
                           }),
                           (0, a.jsxs)("ul", {
                             className:
@@ -148,7 +148,7 @@
                                 className: "social-icons-youtube",
                                 children: (0, a.jsx)("a", {
                                   "data-toggle": "tooltip",
-                                  href: "https://twitter.com/PushCi",
+                                  href: "https://twitter.com/pushCi",
                                   target: "_blank",
                                   title: "",
                                   "data-original-title": "Facebook",
@@ -377,7 +377,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Sur l'application PUSH CI, cliquez sur ",
+                                  "Sur l'application push, cliquez sur ",
                                   (0, a.jsx)("b", {
                                     children: '"RECHARGER UNE CARTE"',
                                   }),
@@ -406,7 +406,7 @@
                                   " dans le POINT ",
                                   (0, a.jsx)("span", {
                                     className: "text-capitalize",
-                                    children: "PUSH",
+                                    children: "push",
                                   }),
                                   " le plus proche.",
                                 ],
@@ -435,7 +435,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Avec la carte Push (Physique ou Digitale), ",
+                                  "Avec la carte push (Physique ou Digitale), ",
                                   (0, a.jsx)("br", {}),
                                   " ",
                                   (0, a.jsx)("b", {
@@ -465,13 +465,13 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "Payez aussi en magasins en utilisant votre carte Push, en C\xf4te d'Ivoire et dans tous les points de vente Visa \xe0 travers le Monde.",
+                                  "Payez aussi en magasins en utilisant votre carte push, en C\xf4te d'Ivoire et dans tous les points de vente Visa \xe0 travers le Monde.",
                               }),
                               (0, a.jsx)("p", {
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "La carte Push fonctionne \xe9galement en paiement sans contact dans tous les points de vente \xe9quip\xe9s de TPE Visa",
+                                  "La carte push fonctionne \xe9galement en paiement sans contact dans tous les points de vente \xe9quip\xe9s de TPE Visa",
                               }),
                             ],
                           }),
@@ -497,7 +497,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Sur l'application PUSH CI, cliquez sur ",
+                                  "Sur l'application push, cliquez sur ",
                                   (0, a.jsx)("b", {
                                     children:
                                       '"ACHETER DU CR\xc9DIT T\xc9L\xc9PHONIQUE"',
@@ -520,7 +520,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "Rendez-vous dans le point Push le plus proche de chez vous, et effectuez votre transaction",
+                                  "Rendez-vous dans le point push le plus proche de chez vous, et effectuez votre transaction",
                               }),
                             ],
                           }),
@@ -546,11 +546,11 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Sur l'application PUSH CI, cliquez sur ",
+                                  "Sur l'application push, cliquez sur ",
                                   (0, a.jsx)("b", {
                                     children: '"TRANSF\xc9RER DE L\'ARGENT"',
                                   }),
-                                  ", et envoyez de l'argent vers un compte Push, ou vers n'importe quel r\xe9seau Mobile Money",
+                                  ", et envoyez de l'argent vers un compte push, ou vers n'importe quel r\xe9seau Mobile Money",
                                 ],
                               }),
                               (0, a.jsxs)("p", {
@@ -561,14 +561,14 @@
                                   (0, a.jsx)("b", {
                                     children: '"ENVOI D\'ARGENT"',
                                   }),
-                                  " et envoyez de l'argent vers un compte Push, ou vers n'importe quel r\xe9seau Mobile Money",
+                                  " et envoyez de l'argent vers un compte push, ou vers n'importe quel r\xe9seau Mobile Money",
                                 ],
                               }),
                               (0, a.jsx)("p", {
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "Rendez-vous dans le point Push le plus proche de chez vous, et effectuez votre transaction",
+                                  "Rendez-vous dans le point push le plus proche de chez vous, et effectuez votre transaction",
                               }),
                             ],
                           }),
@@ -631,7 +631,7 @@
                     (0, a.jsxs)("p", {
                       style: {
                         textAlign: "center",
-                        color: "#074756",
+                        color: "#004156",
                         font: "normal normal 18px Avenir-Heavy",
                         fontWeight: "bold",
                         marginTop: "20px",
@@ -656,14 +656,14 @@
                       ? (0, a.jsx)("div", {
                           style: {
                             textAlign: "center",
-                            color: "#074756",
+                            color: "#004156",
                             font: "normal normal 18px Avenir-Heavy",
                             fontWeight: "bold",
                             marginTop: "20px",
                             marginBottom: "10px",
                           },
                           children:
-                            "Merci pour l'int\xe9r\xeat que vous portez \xe0 Push CI. Vous recevrez votre code d\u2019invitation par SMS.",
+                            "Merci pour l'int\xe9r\xeat que vous portez \xe0 push. Vous recevrez votre code d\u2019invitation par SMS.",
                         })
                       : (0, a.jsxs)("div", {
                           className: "home-modal",
@@ -671,7 +671,7 @@
                             (0, a.jsx)("p", {
                               style: {
                                 textAlign: "center",
-                                color: "#074756",
+                                color: "#004156",
                                 font: "normal normal 18px Avenir-Heavy",
                                 fontWeight: "bold",
                                 marginTop: "20px",
@@ -761,7 +761,7 @@
                                                                 d
                                                               ),
                                                               message:
-                                                                "F\xe9licitations ! Votre inscription sur le site web Push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
+                                                                "F\xe9licitations ! Votre inscription sur le site web push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
                                                             },
                                                             t
                                                           ),
@@ -826,10 +826,11 @@
                   className: "headerrounded d-none d-md-block",
                   style: {
                     margin: "0px 30px 0px 30px",
-                    background: "#e8f5e4",
+                    background:
+                      "url('/images/banner.png') no-repeat center center",
+                    backgroundSize: "cover",
+                    height: "90vh",
                     padding: "150px 12px  0px",
-                    borderBottomRightRadius: "25px",
-                    borderBottomLeftRadius: "25px",
                   },
                   children: (0, a.jsxs)("div", {
                     className:
@@ -841,20 +842,18 @@
                         "data-aos-duration": "2000",
                         style: { position: "relative", left: "3.5%" },
                         children: [
-                          (0, a.jsx)("img", {
-                            style: { width: "76%" },
-                            className: "num-tel",
-                            src: "/images/Titre.png",
-                          }),
                           (0, a.jsxs)("p", {
+                            style: {
+                              color: "#fff",
+                            },
                             className:
-                              "fw-bold blue h4 py-2 py-md-3 py-lg-5 titleHeaderTransfer",
+                              "fw-bold white h4 py-2 py-md-3 py-lg-5 titleHeaderTransfer",
                             children: [
-                              "Transf\xe9rez, recevez, envoyez, d\xe9pensez, et ",
+                              " SOLUTION DE PAIEMENT EN UN",
                               (0, a.jsx)("br", {}),
-                              " g\xe9rez votre argent 24/7, sans bouger de ",
+                              "GUICHET UNIQUE",
                               (0, a.jsx)("br", {}),
-                              " chez vous.",
+                              "« Grace aux API, innovons ensemble »",
                             ],
                           }),
                           (0, a.jsx)(T, {}),
@@ -863,7 +862,7 @@
                               textAlign: "left",
                               marginTop: "15px",
                               letterSpacing: "0px",
-                              color: "#074756",
+                              color: "#fff",
                               opacity: "1",
                               font: "normal normal 500 16px/18px Poppins",
                             },
@@ -882,103 +881,86 @@
                         className:
                           "d-flex justify-content-center pt-o pt-sm-3 pt-md-0 headerphonediv",
                         "data-aos": "flip-right",
-                        children: [
-                          (0, a.jsx)("img", {
-                            src: "/images/Groupe 4971.png",
-                            style: {
-                              height: "550px",
-                              position: "relative",
-                              right: "8%",
-                            },
-                            className: "img-fluid image-tel",
-                          }),
-                          (0, a.jsxs)("div", {
-                            className: "headerbuttonstore",
-                            style: {
-                              display: "flex",
-                              flexDirection: "column",
-                              justifyContent: "flex-end",
-                              alignItems: "center",
-                              position: "relative",
-                              right: "13%",
-                              bottom: "10%",
-                            },
-                            children: [
-                              (0, a.jsx)("p", {
-                                className: "headerTextSuper",
-                                style: {
-                                  textAlign: "center",
-                                  font: "normal normal 800 22px/15px Poppins",
-                                  letterSpacing: "0px",
-                                  color: "#074756",
-                                  textShadow: "0px 0px 86px #00000029",
-                                  opacity: "1",
-                                },
-                                children: "Avec en plus une",
-                              }),
-                              (0, a.jsx)("div", {
-                                className: "d-flex justify-content-center",
-                                children: (0, a.jsx)("div", {
-                                  style: {
-                                    background:
-                                      "#4DAF27 0% 0% no-repeat padding-box",
-                                    opacity: "1",
-                                    transform:
-                                      "matrix(1, 0.03, -0.03, 1, 0, 0)",
-                                  },
-                                  className: "p-2",
-                                  children: (0, a.jsx)("p", {
-                                    style: {
-                                      textAlign: "center",
-                                      font: "normal normal 800 40px/25px Poppins",
-                                      letterSpacing: "0px",
-                                      color: "#FFFFFF",
-                                    },
-                                    className: "h1",
-                                    children: "Super App",
-                                  }),
-                                }),
-                              }),
-                              (0, a.jsx)("p", {
-                                className: "mt-3",
-                                style: {
-                                  textAlign: "center",
-                                  font: "normal normal 800 22px/15px Poppins",
-                                  letterSpacing: "0px",
-                                  color: "#074756",
-                                  textShadow: "0px 0px 86px #00000029",
-                                  opacity: "1",
-                                },
-                                children: "Push Ci",
-                              }),
-                              (0, a.jsxs)("div", {
-                                className: "d-flex justify-content-between",
-                                children: [
-                                  (0, a.jsx)("div", {
-                                    style: { margin: "5px" },
-                                    children: (0, a.jsx)("a", {
-                                      href: "https://play.google.com/store/apps/details?id=com.panelyscash.app",
-                                      children: (0, a.jsx)("img", {
-                                        style: { maxWidth: "130px" },
-                                        src: "/images/google-play-store.png",
-                                      }),
-                                    }),
-                                  }),
-                                  (0, a.jsx)("div", {
-                                    style: { margin: "5px" },
-                                    children: (0, a.jsx)("a", {
-                                      href: "https://apps.apple.com/ng/app/push-ci/id1601308812",
-                                      children: (0, a.jsx)("img", {
-                                        style: { maxWidth: "130px" },
-                                        src: "/images/app-store.png",
-                                      }),
-                                    }),
-                                  }),
-                                ],
-                              }),
-                            ],
-                          }),
-                        ],
+                        // children: [
+                        //   (0, a.jsxs)("div", {
+                        //     className: "headerbuttonstore",
+                        //     style: {
+                        //       display: "flex",
+                        //       flexDirection: "column",
+                        //       justifyContent: "flex-end",
+                        //       alignItems: "center",
+                        //       position: "relative",
+                        //       right: "13%",
+                        //       bottom: "10%",
+                        //     },
+                        //     children: [
+                        //       (0, a.jsx)("p", {
+                        //         className: "headerTextSuper",
+                        //         style: {
+                        //           textAlign: "center",
+                        //           font: "normal normal 800 22px/15px Poppins",
+                        //           letterSpacing: "0px",
+                        //           color: "#004156",
+                        //           textShadow: "0px 0px 86px #00000029",
+                        //           opacity: "1",
+                        //         },
+                        //         children: "Avec en plus une",
+                        //       }),
+                        //       (0, a.jsx)("div", {
+                        //         className: "d-flex justify-content-center",
+                        //         children: (0, a.jsx)("div", {
+                        //           style: {
+                        //             background:
+                        //               "#4DAF27 0% 0% no-repeat padding-box",
+                        //             opacity: "1",
+                        //             transform:
+                        //               "matrix(1, 0.03, -0.03, 1, 0, 0)",
+                        //           },
+                        //           className: "p-2",
+                        //           children: (0, a.jsx)("p", {
+                        //             style: {
+                        //               textAlign: "center",
+                        //               font: "normal normal 800 40px/25px Poppins",
+                        //               letterSpacing: "0px",
+                        //               color: "#FFFFFF",
+                        //             },
+                        //             className: "h1",
+                        //             children: "Super App",
+                        //           }),
+                        //         }),
+                        //       }),
+                        //       (0, a.jsx)("p", {
+                        //         className: "mt-3",
+                        //         style: {
+                        //           textAlign: "center",
+                        //           font: "normal normal 800 22px/15px Poppins",
+                        //           letterSpacing: "0px",
+                        //           color: "#004156",
+                        //           textShadow: "0px 0px 86px #00000029",
+                        //           opacity: "1",
+                        //         },
+                        //         children: "push",
+                        //       }),
+                        //       (0, a.jsxs)("div", {
+                        //         className: "d-flex justify-content-between",
+                        //         children: [
+                        //           (0, a.jsx)("div", {
+                        //             style: { margin: "5px" },
+                        //             children: (0, a.jsx)("a", {
+                        //               href: "https://play.google.com/store/apps/details?id=com.panelyscash.app",
+                        //             }),
+                        //           }),
+                        //           (0, a.jsx)("div", {
+                        //             style: { margin: "5px" },
+                        //             children: (0, a.jsx)("a", {
+                        //               href: "https://apps.apple.com/ng/app/push-ci/id1601308812",
+                        //             }),
+                        //           }),
+                        //         ],
+                        //       }),
+                        //     ],
+                        //   }),
+                        // ],
                       }),
                     ],
                   }),
@@ -988,10 +970,8 @@
                     "py-md-5 headerrounded d-block d-md-none mobile-part",
                   style: {
                     margin: "0px 30px 0px 30px",
-                    background: "#e8f5e4",
+                    background: "#004156",
                     paddingTop: "61px",
-                    borderBottomRightRadius: "25px",
-                    borderBottomLeftRadius: "25px",
                   },
                   children: (0, a.jsxs)("div", {
                     className: "container-xl d-md-flex justify-content-around",
@@ -999,11 +979,6 @@
                       (0, a.jsxs)("div", {
                         style: { position: "relative", left: "3.5%" },
                         children: [
-                          (0, a.jsx)("img", {
-                            style: { width: "76%" },
-                            className: "num-tel",
-                            src: "/images/Titre.png",
-                          }),
                           (0, a.jsx)("p", {
                             className:
                               "fw-bold blue h4 my-4 titleHeaderTransfer",
@@ -1024,7 +999,7 @@
                               textAlign: "left",
                               marginTop: "15px",
                               letterSpacing: "0px",
-                              color: "#074756",
+                              color: "#004156",
                               opacity: "1",
                               font: "normal normal 500 16px/18px Poppins",
                             },
@@ -1069,7 +1044,7 @@
                                   textAlign: "center",
                                   font: "normal normal 800 22px/15px Poppins",
                                   letterSpacing: "0px",
-                                  color: "#074756",
+                                  color: "#004156",
                                   textShadow: "0px 0px 86px #00000029",
                                   opacity: "1",
                                 },
@@ -1080,7 +1055,7 @@
                                 children: (0, a.jsx)("div", {
                                   style: {
                                     background:
-                                      "#4DAF27 0% 0% no-repeat padding-box",
+                                      "#FF5722 0% 0% no-repeat padding-box",
                                     opacity: "1",
                                     transform:
                                       "matrix(1, 0.03, -0.03, 1, 0, 0)",
@@ -1104,11 +1079,11 @@
                                   textAlign: "center",
                                   font: "normal normal 800 22px/15px Poppins",
                                   letterSpacing: "0px",
-                                  color: "#074756",
+                                  color: "#004156",
                                   textShadow: "0px 0px 86px #00000029",
                                   opacity: "1",
                                 },
-                                children: "Push Ci",
+                                children: "push",
                               }),
                               (0, a.jsxs)("div", {
                                 className: "d-flex justify-content-between",
@@ -1148,11 +1123,9 @@
                           className:
                             "titleDiv titleDiv0  text-center py-5 d-none d-md-block",
                           children: [
-                            "Gr\xe2ce \xe0 votre num\xe9ro de",
-                            (0, a.jsx)("br", { className: "textUnderImageBr" }),
-                            " t\xe9l\xe9phone, vous b\xe9n\xe9ficiez de",
+                            " JL PAY ?",
                             (0, a.jsx)("span", {
-                              style: { color: "#539F20" },
+                              style: { color: "#d9534f" },
                               children: "_",
                             }),
                           ],
@@ -1169,7 +1142,7 @@
                             (0, a.jsx)("br", {}),
                             " b\xe9n\xe9ficiez de",
                             (0, a.jsx)("span", {
-                              style: { color: "#539F20" },
+                              style: { color: "#d9534f" },
                               children: "_",
                             }),
                           ],
@@ -1195,168 +1168,21 @@
                                     "d-flex justify-content-center mb-2",
                                   children: (0, a.jsx)("img", {
                                     alt: "img",
-                                    src: "/images/Groupe 4749.png",
-                                  }),
-                                }),
-                                (0, a.jsxs)("p", {
-                                  className:
-                                    "titleCard Poppins font-weight-800 text-center",
-                                  children: [
-                                    "CARTE BANCAIRE VISA ",
-                                    (0, a.jsx)("br", {}),
-                                    "INTERNATIONALE",
-                                    (0, a.jsx)("br", {}),
-                                    (0, a.jsx)("small", {
-                                      className: "",
-                                      style: {
-                                        font: "normal normal 16px Avenir",
-                                        fontWeight: "bold",
-                                        color: "#004156",
-                                      },
-                                      children: "(Virtuelle ou Physique)",
-                                    }),
-                                  ],
-                                }),
-                              ],
-                            }),
-                          }),
-                        }),
-                        (0, a.jsx)(d.Z, {
-                          xs: 6,
-                          md: 4,
-                          lg: 3,
-                          className: "cardInfos",
-                          children: (0, a.jsx)("div", {
-                            className: "card cardIndex",
-                            children: (0, a.jsxs)("div", {
-                              className: "card-body",
-                              "data-aos": "zoom-in",
-                              children: [
-                                (0, a.jsx)("div", {
-                                  className:
-                                    "d-flex justify-content-center mb-2",
-                                  children: (0, a.jsx)("img", {
-                                    alt: "img",
-                                    src: "/images/Groupe 4730.png",
-                                  }),
-                                }),
-                                (0, a.jsxs)("p", {
-                                  className:
-                                    "titleCard Poppins font-weight-800 text-center",
-                                  children: [
-                                    "D\xc9POTS & RETRAITS ",
-                                    (0, a.jsx)("br", {}),
-                                    "DANS NOS POINTS PUSH",
-                                  ],
-                                }),
-                              ],
-                            }),
-                          }),
-                        }),
-                        (0, a.jsx)(d.Z, {
-                          xs: 6,
-                          md: 4,
-                          lg: 3,
-                          className: "cardInfos",
-                          children: (0, a.jsx)("div", {
-                            className: "card cardIndex",
-                            children: (0, a.jsxs)("div", {
-                              className: "card-body",
-                              "data-aos": "zoom-in",
-                              children: [
-                                (0, a.jsx)("div", {
-                                  className:
-                                    "d-flex justify-content-center mb-2",
-                                  children: (0, a.jsx)("img", {
-                                    alt: "img",
-                                    src: "/images/Groupe 4804.png",
-                                  }),
-                                }),
-                                (0, a.jsxs)("p", {
-                                  className:
-                                    "titleCard Poppins font-weight-800 text-center",
-                                  children: [
-                                    "RETRAITS DANS TOUS LES ",
-                                    (0, a.jsx)("br", {}),
-                                    " DAB DU MONDE ENTIER",
-                                  ],
-                                }),
-                              ],
-                            }),
-                          }),
-                        }),
-                        (0, a.jsx)(d.Z, {
-                          xs: 6,
-                          md: 4,
-                          lg: 3,
-                          className: "cardInfos",
-                          children: (0, a.jsx)("div", {
-                            className: "card cardIndex",
-                            children: (0, a.jsxs)("div", {
-                              className: "card-body",
-                              "data-aos": "zoom-in",
-                              children: [
-                                (0, a.jsx)("div", {
-                                  className:
-                                    "d-flex justify-content-center mb-2",
-                                  children: (0, a.jsx)("img", {
-                                    alt: "img",
-                                    src: "/images/Groupe 4809.png",
-                                  }),
-                                }),
-                                (0, a.jsxs)("p", {
-                                  className:
-                                    "titleCard Poppins font-weight-800 text-center",
-                                  children: [
-                                    "ACHATS & PAIEMENTS ",
-                                    (0, a.jsx)("br", {}),
-                                    (0, a.jsxs)("small", {
-                                      className: "",
-                                      style: {
-                                        font: "normal normal bold 16px Avenir",
-                                        color: "#004156",
-                                      },
-                                      children: [
-                                        "(En ligne & en magasin ",
-                                        (0, a.jsx)("br", {}),
-                                        " dans le monde entier)",
-                                      ],
-                                    }),
-                                  ],
-                                }),
-                              ],
-                            }),
-                          }),
-                        }),
-                        (0, a.jsx)(d.Z, {
-                          xs: 6,
-                          md: 4,
-                          lg: 3,
-                          className: "cardInfos",
-                          children: (0, a.jsx)("div", {
-                            className: "card cardIndex",
-                            children: (0, a.jsxs)("div", {
-                              className: "card-body",
-                              "data-aos": "zoom-in",
-                              children: [
-                                (0, a.jsx)("div", {
-                                  className:
-                                    "d-flex justify-content-center mb-2",
-                                  children: (0, a.jsx)("img", {
-                                    alt: "img",
-                                    src: "/images/Groupe 4781.png",
+                                    src: "/images/image.png",
+                                    style: {
+                                      borderRadius: "50%",
+                                      backgroundColor: "#FF5722", // Orange foncé
+                                    },
                                   }),
                                 }),
                                 (0, a.jsx)("p", {
                                   className:
-                                    "titleCard Poppins font-weight-800 text-center",
+                                    "titleCard Poppins font-weight-500 text-center",
                                   children: (0, a.jsxs)("a", {
                                     style: { color: "#004156" },
                                     href: "tel:+2252520009339",
                                     children: [
-                                      "CENTRE D\u2019APPEL ",
-                                      (0, a.jsx)("br", {}),
-                                      " EN LANGUES LOCALES ",
+                                      "JL PAY Propose des solutions de paiements innovants entre les banques, les opérateurs de transferts d\u2019argent et les PME/PMI offrant des services à valeur ajout\xe9e.",
                                       (0, a.jsx)("br", {}),
                                       (0, a.jsx)("small", {
                                         className: "",
@@ -1364,7 +1190,6 @@
                                           font: "normal normal bold 16px Avenir",
                                           color: "#004156",
                                         },
-                                        children: "( 25 2000 9339 )",
                                       }),
                                     ],
                                   }),
@@ -1389,16 +1214,18 @@
                                     "d-flex justify-content-center mb-2",
                                   children: (0, a.jsx)("img", {
                                     alt: "img",
-                                    src: "/images/Groupe 4751.png",
+                                    src: "/images/image copy.png",
+                                    style: {
+                                      borderRadius: "50%",
+                                      backgroundColor: "#FF5722", // Orange foncé
+                                    },
                                   }),
                                 }),
                                 (0, a.jsxs)("p", {
                                   className:
-                                    "titleCard Poppins font-weight-800 text-center",
+                                    "titleCard Poppins font-weight-500 text-center",
                                   children: [
-                                    "ACC\xc8S \xc0 VOTRE ",
-                                    (0, a.jsx)("br", {}),
-                                    " COMPTE VIA *755#",
+                                    "JL PAY Permet d\u2019optimiser vos produits existants en intégrant la digitalisation du processus grâce à des API standards, sécurisés et adaptés à vos environnements techniques.",
                                     (0, a.jsx)("br", {}),
                                     (0, a.jsx)("small", {
                                       className: "",
@@ -1406,8 +1233,6 @@
                                         font: "normal normal bold 16px Avenir",
                                         color: "#004156",
                                       },
-                                      children:
-                                        "( 24/7 sur tous les r\xe9seaux )",
                                     }),
                                   ],
                                 }),
@@ -1431,16 +1256,19 @@
                                     "d-flex justify-content-center mb-2",
                                   children: (0, a.jsx)("img", {
                                     alt: "img",
-                                    src: "/images/Groupe 4777.png",
+                                    src: "/images/image copy 2.png",
+                                    style: {
+                                      borderRadius: "50%",
+                                      backgroundColor: "#FF5722", // Orange foncé
+                                    },
                                   }),
                                 }),
                                 (0, a.jsxs)("p", {
                                   className:
-                                    "titleCard Poppins font-weight-800 text-center",
+                                    "titleCard Poppins font-weight-500 text-center",
                                   children: [
-                                    "HISTORIQUE DES ",
+                                    "JL PAY Vous garantit un déploiement et un lancement efficace à moindre cout avec un impact organisationnel mineur",
                                     (0, a.jsx)("br", {}),
-                                    "OP\xc9RATIONS",
                                   ],
                                 }),
                               ],
@@ -1463,14 +1291,18 @@
                                     "d-flex justify-content-center mb-2",
                                   children: (0, a.jsx)("img", {
                                     alt: "img",
-                                    src: "/images/Groupe 4891.png",
+                                    src: "/images/image copy 3.png",
+                                    style: {
+                                      borderRadius: "50%",
+                                      backgroundColor: "#FF5722", // Orange foncé
+                                    },
                                   }),
                                 }),
                                 (0, a.jsxs)("p", {
                                   className:
-                                    "titleCard Poppins font-weight-800 text-center",
+                                    "titleCard Poppins font-weight-500 text-center",
                                   children: [
-                                    "TARIFS ACCESSIBLES",
+                                    "JL PAY une seule interface pour toutes vos marques de transfert d\u2019argent et garantit l\u2019exploitation des canaux de réception : Caisse, Compte, Gab, Mobile money",
                                     (0, a.jsx)("br", {}),
                                     (0, a.jsxs)("small", {
                                       className: "",
@@ -1478,11 +1310,6 @@
                                         font: "normal normal bold 16px Avenir",
                                         color: "#004156",
                                       },
-                                      children: [
-                                        "(D\xe9p\xf4t \xe0 1% ",
-                                        (0, a.jsx)("br", {}),
-                                        " Retrait & Transfert \xe0 0 Fcfa)",
-                                      ],
                                     }),
                                   ],
                                 }),
@@ -1507,7 +1334,7 @@
                             children: [
                               "Un compte mobile, une carte Visa",
                               (0, a.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -1519,7 +1346,7 @@
                           children: [
                             (0, a.jsx)("div", {
                               className:
-                                "cartePush py-lg-5 pl-lg-5 mb-3 offset-md-0 magenta mr-3 mr-lg-0",
+                                "cartepush py-lg-5 pl-lg-5 mb-3 offset-md-0 magenta mr-3 mr-lg-0",
                               children: (0, a.jsxs)("div", {
                                 className:
                                   "d-block d-md-flex justify-content-between",
@@ -1532,7 +1359,7 @@
                                       (0, a.jsx)("p", {
                                         className:
                                           "titleBlock titleBlock0 text-left ",
-                                        children: "La Carte Push",
+                                        children: "La Carte push",
                                       }),
                                       (0, a.jsx)("div", {
                                         className:
@@ -1540,7 +1367,7 @@
                                         children: (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte Push est une carte Visa ",
+                                            "La carte push est une carte Visa ",
                                             (0, a.jsx)("br", {}),
                                             " Internationale qui permet d\u2019effectuer ",
                                             (0, a.jsx)("br", {}),
@@ -1560,7 +1387,7 @@
                                         children: (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte Push permet aussi de ",
+                                            "La carte push permet aussi de ",
                                             (0, a.jsx)("br", {}),
                                             " recevoir et envoyer de l\u2019argent via tous",
                                             (0, a.jsx)("br", {}),
@@ -1616,7 +1443,7 @@
                                         (0, a.jsx)("p", {
                                           className:
                                             "titleBlock titleBlock1 text-left",
-                                          children: "La virtuelle Push",
+                                          children: "La virtuelle push",
                                         }),
                                         (0, a.jsx)("div", {
                                           className:
@@ -1624,7 +1451,7 @@
                                           children: (0, a.jsx)("p", {
                                             className: "titleBlockParagraph",
                                             children:
-                                              "La virtuelle Push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
+                                              "La virtuelle push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
                                           }),
                                         }),
                                         (0, a.jsx)("div", {
@@ -1633,7 +1460,7 @@
                                           children: (0, a.jsx)("p", {
                                             className: "titleBlockParagraph",
                                             children:
-                                              "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points Push sur l\u2019ensemble du territoire Ivoirien.",
+                                              "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points push sur l\u2019ensemble du territoire Ivoirien.",
                                           }),
                                         }),
                                         (0, a.jsx)("div", {
@@ -1667,7 +1494,7 @@
                             children: [
                               "Un compte mobile, une carte Visa",
                               (0, a.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -1681,7 +1508,7 @@
                               lg: 6,
                               xs: 12,
                               className:
-                                "cartePush mb-lg-0 mb-3 offset-md-0 magenta",
+                                "cartepush mb-lg-0 mb-3 offset-md-0 magenta",
                               children: [
                                 (0, a.jsxs)("div", {
                                   "data-aos": "fade-right",
@@ -1691,7 +1518,7 @@
                                     (0, a.jsx)("p", {
                                       className:
                                         "titleBlock titleBlock0 text-left ",
-                                      children: "La Carte Push",
+                                      children: "La Carte push",
                                     }),
                                     (0, a.jsxs)("div", {
                                       className: "heightParagraph",
@@ -1699,7 +1526,7 @@
                                         (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte Push est une carte Visa ",
+                                            "La carte push est une carte Visa ",
                                             (0, a.jsx)("br", {}),
                                             " Internationale qui permet d\u2019effectuer ",
                                             (0, a.jsx)("br", {}),
@@ -1715,7 +1542,7 @@
                                         (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte Push permet aussi de ",
+                                            "La carte push permet aussi de ",
                                             (0, a.jsx)("br", {}),
                                             " recevoir et envoyer de l\u2019argent via tous",
                                             (0, a.jsx)("br", {}),
@@ -1777,7 +1604,7 @@
                                         (0, a.jsx)("p", {
                                           className:
                                             "titleBlock titleBlock1 text-left",
-                                          children: "La virtuelle Push",
+                                          children: "La virtuelle push",
                                         }),
                                         (0, a.jsxs)("div", {
                                           className: "heightParagraph",
@@ -1785,7 +1612,7 @@
                                             (0, a.jsx)("p", {
                                               className: "titleBlockParagraph",
                                               children:
-                                                "La virtuelle Push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
+                                                "La virtuelle push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
                                             }),
                                             (0, a.jsx)("br", {
                                               className: "tabletdisapear",
@@ -1793,7 +1620,7 @@
                                             (0, a.jsx)("p", {
                                               className: "titleBlockParagraph",
                                               children:
-                                                "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points Push sur l\u2019ensemble du territoire Ivoirien.",
+                                                "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points push sur l\u2019ensemble du territoire Ivoirien.",
                                             }),
                                           ],
                                         }),
@@ -1824,7 +1651,7 @@
                             xs: 12,
                             xl: 6,
                             className:
-                              "cartePush p-lg-5 mb-lg-0 mb-3 offset-md-0 magenta",
+                              "cartepush p-lg-5 mb-lg-0 mb-3 offset-md-0 magenta",
                             children: [
                               (0, a.jsxs)("div", {
                                 "data-aos": "fade-right",
@@ -1834,7 +1661,7 @@
                                   (0, a.jsx)("p", {
                                     className:
                                       "titleBlock titleBlock0 text-left ",
-                                    children: "La Carte Push",
+                                    children: "La Carte push",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "explication",
@@ -1842,7 +1669,7 @@
                                       (0, a.jsxs)("p", {
                                         className: "titleBlockParagraph0",
                                         children: [
-                                          "La carte Push est une carte Visa ",
+                                          "La carte push est une carte Visa ",
                                           (0, a.jsx)("br", {}),
                                           " Internationale qui permet d\u2019effectuer ",
                                           (0, a.jsx)("br", {}),
@@ -1858,7 +1685,7 @@
                                       (0, a.jsxs)("p", {
                                         className: "titleBlockParagraph0",
                                         children: [
-                                          "La carte Push permet aussi de ",
+                                          "La carte push permet aussi de ",
                                           (0, a.jsx)("br", {}),
                                           " recevoir et envoyer de l\u2019argent via tous",
                                           (0, a.jsx)("br", {}),
@@ -1917,17 +1744,17 @@
                                     children: [
                                       (0, a.jsx)("p", {
                                         className: "titleBlock text-left",
-                                        children: "La virtuelle Push",
+                                        children: "La virtuelle push",
                                       }),
                                       (0, a.jsx)("p", {
                                         className: "titleBlockParagraph",
                                         children:
-                                          "La virtuelle Push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
+                                          "La virtuelle push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
                                       }),
                                       (0, a.jsx)("p", {
                                         className: "titleBlockParagraph",
                                         children:
-                                          "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points Push sur l\u2019ensemble du territoire Ivoirien.",
+                                          "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points push sur l\u2019ensemble du territoire Ivoirien.",
                                       }),
                                       (0, a.jsx)("a", {
                                         href: "ouvrir-un-compte.html",
@@ -1960,7 +1787,7 @@
                           children: [
                             "Une Super App r\xe9volutionnaire",
                             (0, a.jsx)("span", {
-                              style: { color: "#539F20" },
+                              style: { color: "#d9534f" },
                               children: "_",
                             }),
                           ],
@@ -2145,7 +1972,7 @@
                       children: [
                         "Retirez partout, pr\xe8s de chez vous",
                         (0, a.jsx)("span", {
-                          style: { color: "#539F20" },
+                          style: { color: "#d9534f" },
                           children: "_",
                         }),
                       ],
@@ -2161,11 +1988,11 @@
                     (0, a.jsx)("div", {
                       className: "col-lg-12",
                       children: (0, a.jsxs)("p", {
-                        className: "titleDiv titleAvecPush text-center py-5",
+                        className: "titleDiv titleAvecpush text-center py-5",
                         children: [
-                          "Avec Push, je peux tout faire",
+                          "Avec push, je peux tout faire",
                           (0, a.jsx)("span", {
-                            style: { color: "#539F20" },
+                            style: { color: "#d9534f" },
                             children: "_",
                           }),
                         ],
@@ -2186,9 +2013,11 @@
                       children: (0, a.jsxs)("p", {
                         className: "titleDiv  text-center py-5",
                         children: [
-                          "Un service pens\xe9 pour l\u2019Afrique",
+                          "NOTRE PROPOSITION: ",
+                          (0, a.jsx)("br", {}),
+                          "fournir un service de paiement en guichet unique ",
                           (0, a.jsx)("span", {
-                            style: { color: "#539F20" },
+                            style: { color: "#d9534f" },
                             children: "_",
                           }),
                         ],
@@ -2209,7 +2038,7 @@
                                 (0, a.jsx)("div", {
                                   className: "text-center",
                                   children: (0, a.jsx)("img", {
-                                    src: "/images/Groupe 4936.png",
+                                    src: "/images/image copy 2.png",
                                     className: "card-img-top",
                                     alt: "...",
                                     height: "50",
@@ -2218,10 +2047,9 @@
                                 (0, a.jsxs)("p", {
                                   className: "titleActu h5 font-weight-800",
                                   children: [
-                                    "Un code USSD ",
+                                    "GUICHET UNIQUE",
                                     (0, a.jsx)("span", {
                                       className: "display-mobile-none",
-                                      children: "unique",
                                     }),
                                   ],
                                 }),
@@ -2229,7 +2057,7 @@
                                   className:
                                     "card-text textActu Poppins blue-propos pb-3",
                                   children:
-                                    "En composant le *755# peu importe votre r\xe9seau, effectuez vos transactions avec ou sans internet.",
+                                    "Regrouper plusieurs marques de société de transfert d’argent en une seule plateforme",
                                 }),
                               ],
                             }),
@@ -2247,7 +2075,7 @@
                                 (0, a.jsx)("div", {
                                   className: "text-center pt-2",
                                   children: (0, a.jsx)("img", {
-                                    src: "/images/Groupe 4487.png",
+                                    src: "/images/image copy 4.png",
                                     className: "card-img-top",
                                     alt: "...",
                                     height: "43",
@@ -2255,13 +2083,13 @@
                                 }),
                                 (0, a.jsx)("p", {
                                   className: "titleActu h5 font-weight-800",
-                                  children: "Centre d' appel en langues",
+                                  children: "PAIEMENTS",
                                 }),
                                 (0, a.jsx)("p", {
                                   className:
                                     "card-text textActu Poppins blue-propos pb-3",
                                   children:
-                                    "En Dioula, en Baoul\xe9, en B\xe9t\xe9, en Fran\xe7ais (et m\xeame en Moor\xe9). Des conseillers \xe0 votre \xe9coute.",
+                                    "Exploiter tous les canaux de paiements : Caisse, GAB, Comptes et mobile money",
                                 }),
                               ],
                             }),
@@ -2279,7 +2107,7 @@
                                 (0, a.jsx)("div", {
                                   className: "text-center pt-3",
                                   children: (0, a.jsx)("img", {
-                                    src: "/images/shop.png",
+                                    src: "/images/image.png",
                                     className: "card-img-top",
                                     alt: "...",
                                     height: "34",
@@ -2287,13 +2115,13 @@
                                 }),
                                 (0, a.jsx)("p", {
                                   className: "titleActu h5 font-weight-800",
-                                  children: "Un r\xe9seau de proximit\xe9",
+                                  children: "OFFRE INNOVANT",
                                 }),
                                 (0, a.jsx)("p", {
                                   className:
                                     "card-text textActu Poppins blue-propos",
                                   children:
-                                    "Un r\xe9seau d\u2019agences PUSH agr\xe9\xe9es au coeur des populations comme solutions additives aux distributeurs automatiques de banques.",
+                                    "Bâtir et proposer à votre clientèle et sous agents une offre complète et simplifiée.",
                                 }),
                               ],
                             }),

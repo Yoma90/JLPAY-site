@@ -1,11 +1,11 @@
 /* MEDIA QUERIES bloc cartes */
 
 @media (max-width: 1780px) {
-  .displaycardweb .cartePush .centerDiv {
+  .displaycardweb .cartepush .centerDiv {
     position: relative;
     left: 15% !important;
   }
-  .displaycardweb .cartePush {
+  .displaycardweb .cartepush {
     padding-left: 0% !important;
   }
   .image-carte-virtuelle {
@@ -312,7 +312,7 @@ MEDIA QUERIES INDEX SECTION 1
         top: 3rem;
     }**/
 
-  .titleAvecPush {
+  .titleAvecpush {
     padding-top: 10% !important;
     padding-bottom: 0% !important;
     margin-bottom: -4rem;
@@ -435,7 +435,7 @@ MEDIA QUERIES INDEX SECTION 1
         padding: 0px 14% 0px 8%;
     }**/
 
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 2% !important;
   }
@@ -487,18 +487,18 @@ MEDIA QUERIES INDEX SECTION 1
   /**  .alex-block {
         top: 6.3% !important;
     }**/
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal 500 17px Avenir !important;
-    color: #074756;
+    color: #004156;
   }
 
-  .displaycardweb .cartePush {
+  .displaycardweb .cartepush {
     height: 0% !important;
   }
 
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal 500 18px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .find-us {
@@ -691,7 +691,7 @@ MEDIA QUERIES INDEX SECTION 1
 }
 
 @media (max-width: 1703px) {
-  .cartePush .divText {
+  .cartepush .divText {
     /**  position: relative;
        left: 2% !important;**/
   }
@@ -790,19 +790,19 @@ MEDIA QUERIES INDEX SECTION 3
     width: 45%;
   }
 
-  .cartePush .divText {
+  .cartepush .divText {
     width: 100% !important;
     padding-left: 43% !important;
   }
 
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal bold 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal bold 23px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .btn-activer-gratuitement {
@@ -810,7 +810,7 @@ MEDIA QUERIES INDEX SECTION 3
     /**top: 1.7rem !important;**/
   }
 
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 14%;
     width: 74% !important;
@@ -879,7 +879,7 @@ MEDIA QUERIES INDEX SECTION 3
   .displaycardmobile {
     display: none !important;
   }
-  .displaycardweb .cartePush .centerDiv {
+  .displaycardweb .cartepush .centerDiv {
     position: relative;
     left: 9% !important;
   }
@@ -891,7 +891,7 @@ MEDIA QUERIES INDEX SECTION 3
     position: relative;
     right: 1.4rem;
   }
-  .displaycardweb .cartePush {
+  .displaycardweb .cartepush {
     padding-left: 0% !important;
   }
   .displaycardweb .vitualCard {
@@ -907,7 +907,7 @@ MEDIA QUERIES INDEX SECTION 3
   }
   .titleBlockParagraph {
     font: normal normal 500 17px Avenir !important;
-    color: #074756;
+    color: #004156;
   }
   .btn-acheter-carte {
     position: relative;
@@ -951,7 +951,7 @@ MEDIA QUERIES INDEX SECTION 3
 }
 
 @media (min-width: 1417px) and (max-width: 1440px) {
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 15%;
     width: 49% !important;
@@ -963,14 +963,14 @@ MEDIA QUERIES INDEX SECTION 3
     left: 14%;
   }
 
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal bold 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .divText .lavirtuellepush .titleBlockParasgraph {
     font: normal normal bold 23px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .btn-activer-gratuitement {
@@ -987,7 +987,7 @@ MEDIA QUERIES INDEX SECTION 3
 }
 
 @media (min-width: 1441px) and (max-width: 2199px) {
-  /* .cartePush .divText{
+  /* .cartepush .divText{
         position: relative;
         left: 14%;
         width: 60% !important;
@@ -1009,14 +1009,14 @@ MEDIA QUERIES INDEX SECTION 3
     left: 2%;
   }
 
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal bold 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal bold 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .btn-activer-gratuitement {
@@ -1052,7 +1052,7 @@ MEDIA QUERIES INDEX SECTION 3
 }
 
 @media (min-width: 2200px) and (max-width: 2560px) {
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: -10%;
     width: 90% !important;
@@ -1064,14 +1064,14 @@ MEDIA QUERIES INDEX SECTION 3
     left: 14%;
   }
 
-  .cartePush .divText .titleBlockParagraph0 {
+  .cartepush .divText .titleBlockParagraph0 {
     font: normal normal bold 22px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .divText .lavirtuellepush .titleBlockParagraph {
     font: normal normal bold 23px Avenir;
-    color: #074756;
+    color: #004156;
   }
 
   .vitualCard {
@@ -1999,7 +1999,7 @@ CANCEL CONTAINER
 }
 
 @media screen and (min-width: 1500px) {
-  .cartePush {
+  .cartepush {
     padding-left: 8rem !important;
   }
 }
@@ -2009,13 +2009,13 @@ CANCEL CONTAINER
 }
 
 @media screen and (max-width: 1300px) and (min-width: 1200px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
 }
 
 @media screen and (max-width: 1144px) and (min-width: 800px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
 }
@@ -2084,11 +2084,11 @@ CANCEL CONTAINER
 }
 
 @media (min-width: 1024px) and (max-width: 1505px) {
-  .cartePush {
+  .cartepush {
     padding-left: 6rem !important;
   }
 
-  .cartePush .divText {
+  .cartepush .divText {
     position: relative;
     left: 15%;
     width: 80% !important;

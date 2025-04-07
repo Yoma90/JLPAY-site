@@ -92,7 +92,7 @@
                 className: "d-inline-flex mx-3",
                 href: "https://apps.apple.com/ng/app/push-ci/id1601308812",
                 children: (0, e.jsx)("img", {
-                  alt: "Push App Store",
+                  alt: "push App Store",
                   src: "/images/app-store.png",
                   className: "img-fluid",
                 }),
@@ -101,7 +101,7 @@
                 className: "d-inline-flex mx-2",
                 href: "https://play.google.com/store/apps/details?id=com.panelyscash.app",
                 children: (0, e.jsx)("img", {
-                  alt: "Push Play Store",
+                  alt: "push Play Store",
                   src: "/images/google-play-store.png",
                   className: "img-fluid",
                 }),
@@ -153,7 +153,7 @@
                             children: [
                               "Rejoignez-nous maintenant",
                               (0, e.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -185,7 +185,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "Push Ci :",
+                            children: "push :",
                           }),
                           (0, e.jsxs)("ul", {
                             className:
@@ -250,7 +250,7 @@
                                 className: "social-icons-youtube",
                                 children: (0, e.jsx)("a", {
                                   "data-toggle": "tooltip",
-                                  href: "https://twitter.com/PushCi",
+                                  href: "https://twitter.com/pushCi",
                                   target: "_blank",
                                   title: "",
                                   "data-original-title": "Facebook",
@@ -341,7 +341,7 @@
                           className: "".concat(
                             i("/push-business") && "active-nav"
                           ),
-                          children: "Push business",
+                          children: "push business",
                         }),
                       }),
                       (0, e.jsx)("li", {
@@ -397,8 +397,8 @@
                             src: "/images/logo.svg",
                             style: { maxWidth: "100px" },
                             className: "img-fluid logo-img",
-                            alt: "Push",
-                            title: "Push By Panelys",
+                            alt: "push",
+                            title: "push By Panelys",
                           }),
                         }),
                       }),
@@ -547,7 +547,7 @@
                                         className:
                                           "textDistributor hero-txt Poppins blue-propos titleDiv",
                                         children:
-                                          "R\xe9volutionnez la gestion de vos paiements de masse avec Push Business !",
+                                          "R\xe9volutionnez la gestion de vos paiements de masse avec push Business !",
                                       }),
                                       (0, e.jsx)("br", {}),
                                       (0, e.jsx)("h6", {
@@ -559,7 +559,7 @@
                                         },
                                         children: (0, e.jsx)("div", {
                                           children:
-                                            "Que vous soyez une entreprise, une association, une coop\xe9rative, une ONG ou de tout autre secteur professionnel, Push Business est sp\xe9cialement con\xe7u pour r\xe9pondre \xe0 vos besoins.",
+                                            "Que vous soyez une entreprise, une association, une coop\xe9rative, une ONG ou de tout autre secteur professionnel, push Business est sp\xe9cialement con\xe7u pour r\xe9pondre \xe0 vos besoins.",
                                         }),
                                       }),
                                       (0, e.jsx)("br", {}),
@@ -637,7 +637,7 @@
                                       className:
                                         "textDistributor hero-txt Poppins blue-propos titleDiv",
                                       children:
-                                        "R\xe9volutionnez la gestion de vos paiements de masse avec Push Business !",
+                                        "R\xe9volutionnez la gestion de vos paiements de masse avec push Business !",
                                     }),
                                     (0, e.jsx)("br", {}),
                                     (0, e.jsx)("h6", {
@@ -649,7 +649,7 @@
                                       },
                                       children: (0, e.jsx)("div", {
                                         children:
-                                          "Que vous soyez une entreprise, une association, une coop\xe9rative, une ONG ou de tout autre secteur professionnel, Push Business est sp\xe9cialement con\xe7u pour r\xe9pondre \xe0 vos besoins.",
+                                          "Que vous soyez une entreprise, une association, une coop\xe9rative, une ONG ou de tout autre secteur professionnel, push Business est sp\xe9cialement con\xe7u pour r\xe9pondre \xe0 vos besoins.",
                                       }),
                                     }),
                                     (0, e.jsx)("br", {}),
@@ -740,7 +740,7 @@
                                   (0, e.jsx)("p", {
                                     className: "card-pb-paragraph",
                                     children:
-                                      "Automatisez les processus avec Push Business et gagnez du temps pr\xe9cieux pour vous concentrer sur d\u2019autres aspects de votre entreprise.",
+                                      "Automatisez les processus avec push Business et gagnez du temps pr\xe9cieux pour vous concentrer sur d\u2019autres aspects de votre entreprise.",
                                   }),
                                 ],
                               }),
@@ -1146,7 +1146,7 @@
                                   },
                                   type: "checkbox",
                                   label:
-                                    "En cliquant, j'autorise Panelys \xe0 utiliser mes informations renseign\xe9es dans le cadre strict de la prospection et d'une \xe9ventuelle souscription aux services de Push Business.",
+                                    "En cliquant, j'autorise Panelys \xe0 utiliser mes informations renseign\xe9es dans le cadre strict de la prospection et d'une \xe9ventuelle souscription aux services de push Business.",
                                   className: "mx-auto text-main",
                                 }),
                               }),
@@ -1163,7 +1163,7 @@
                                         "?subject="
                                       )
                                       .concat(
-                                        "Demande de d\xe9mo Push Business",
+                                        "Demande de d\xe9mo push Business",
                                         "&body="
                                       )
                                       .concat(encodeURIComponent(W)),

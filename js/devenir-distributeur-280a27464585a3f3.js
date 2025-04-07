@@ -51,7 +51,7 @@
                             children: [
                               "Rejoignez-nous maintenant",
                               (0, t.jsx)("span", {
-                                style: { color: "#539F20" },
+                                style: { color: "#d9534f" },
                                 children: "_",
                               }),
                             ],
@@ -83,7 +83,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "Push Ci :",
+                            children: "push :",
                           }),
                           (0, t.jsxs)("ul", {
                             className:
@@ -148,7 +148,7 @@
                                 className: "social-icons-youtube",
                                 children: (0, t.jsx)("a", {
                                   "data-toggle": "tooltip",
-                                  href: "https://twitter.com/PushCi",
+                                  href: "https://twitter.com/pushCi",
                                   target: "_blank",
                                   title: "",
                                   "data-original-title": "Facebook",
@@ -316,7 +316,7 @@
                                       },
                                       children: (0, t.jsx)("div", {
                                         children:
-                                          " Push vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
+                                          " push vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
                                       }),
                                     }),
                                   ],
@@ -376,7 +376,7 @@
                                       },
                                       children: (0, t.jsx)("div", {
                                         children:
-                                          " Push vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
+                                          " push vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
                                       }),
                                     }),
                                   ],

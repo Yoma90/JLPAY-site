@@ -176,7 +176,7 @@
       })("versions", []).push({
         version: "3.6.5",
         mode: "global",
-        copyright: "© 2020 Denis Pushkarev (zloirock.ru)",
+        copyright: "© 2020 Denis pushkarev (zloirock.ru)",
       });
     }),
     z = 0,
