@@ -83,7 +83,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "push :",
+                            children: "JL PAY :",
                           }),
                           (0, l.jsxs)("ul", {
                             className:
@@ -196,7 +196,7 @@
             children: [
               (0, l.jsx)(g(), {
                 children: (0, l.jsx)("title", {
-                  children: "push | Page Apropos",
+                  children: "JL PAY | Page Apropos",
                 }),
               }),
               (0, l.jsxs)("div", {
@@ -566,7 +566,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "push",
+                                                    children: "JL PAY",
                                                   }),
                                                   ", le compte mobile ",
                                                   (0, l.jsx)("br", {}),
@@ -629,7 +629,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "push",
+                                                    children: "JL PAY",
                                                   }),
                                                   ", au service des ",
                                                   (0, l.jsx)("br", {}),
@@ -685,7 +685,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "push Business",
+                                                    children: "JL PAY Business",
                                                   }),
                                                   ", la ",
                                                   (0, l.jsx)("br", {}),
@@ -761,7 +761,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "push",
+                                                    children: "JL PAY",
                                                   }),
                                                   ", le compte mobile ",
                                                   (0, l.jsx)("br", {}),
@@ -820,7 +820,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "push",
+                                                    children: "JL PAY",
                                                   }),
                                                   ", au service des ",
                                                   (0, l.jsx)("br", {}),
@@ -879,7 +879,7 @@
                                                 },
                                                 children: [
                                                   (0, l.jsx)("b", {
-                                                    children: "push Business",
+                                                    children: "JL PAY Business",
                                                   }),
                                                   ", la ",
                                                   (0, l.jsx)("br", {}),

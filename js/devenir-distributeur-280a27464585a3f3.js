@@ -83,7 +83,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "push :",
+                            children: "JL PAY :",
                           }),
                           (0, t.jsxs)("ul", {
                             className:
@@ -316,7 +316,7 @@
                                       },
                                       children: (0, t.jsx)("div", {
                                         children:
-                                          " push vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
+                                          " JL PAY vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
                                       }),
                                     }),
                                   ],
@@ -376,7 +376,7 @@
                                       },
                                       children: (0, t.jsx)("div", {
                                         children:
-                                          " push vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
+                                          " JL PAY vous ouvre les portes d\u2019un march\xe9 encore plus \xe9tendu gr\xe2ce \xe0 une solution interop\xe9rable et une client\xe8le r\xe9partie \xe0 travers la C\xf4te d\u2019Ivoire.",
                                       }),
                                     }),
                                   ],

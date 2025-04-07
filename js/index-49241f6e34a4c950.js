@@ -83,7 +83,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "push :",
+                            children: "JL PAY :",
                           }),
                           (0, a.jsxs)("ul", {
                             className:
@@ -377,7 +377,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Sur l'application push, cliquez sur ",
+                                  "Sur l'application JL PAY, cliquez sur ",
                                   (0, a.jsx)("b", {
                                     children: '"RECHARGER UNE CARTE"',
                                   }),
@@ -406,7 +406,7 @@
                                   " dans le POINT ",
                                   (0, a.jsx)("span", {
                                     className: "text-capitalize",
-                                    children: "push",
+                                    children: "JL PAY",
                                   }),
                                   " le plus proche.",
                                 ],
@@ -435,7 +435,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Avec la carte push (Physique ou Digitale), ",
+                                  "Avec JL PAY (Physique ou Digitale), ",
                                   (0, a.jsx)("br", {}),
                                   " ",
                                   (0, a.jsx)("b", {
@@ -465,13 +465,13 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "Payez aussi en magasins en utilisant votre carte push, en C\xf4te d'Ivoire et dans tous les points de vente Visa \xe0 travers le Monde.",
+                                  "Payez aussi en magasins en utilisant JL PAY, en C\xf4te d'Ivoire et dans tous les points de vente Visa \xe0 travers le Monde.",
                               }),
                               (0, a.jsx)("p", {
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "La carte push fonctionne \xe9galement en paiement sans contact dans tous les points de vente \xe9quip\xe9s de TPE Visa",
+                                  "JL PAY fonctionne \xe9galement en paiement sans contact dans tous les points de vente \xe9quip\xe9s de TPE Visa",
                               }),
                             ],
                           }),
@@ -497,7 +497,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Sur l'application push, cliquez sur ",
+                                  "Sur l'application JL PAY, cliquez sur ",
                                   (0, a.jsx)("b", {
                                     children:
                                       '"ACHETER DU CR\xc9DIT T\xc9L\xc9PHONIQUE"',
@@ -520,7 +520,7 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "Rendez-vous dans le point push le plus proche de chez vous, et effectuez votre transaction",
+                                  "Rendez-vous dans le point JL PAY le plus proche de chez vous, et effectuez votre transaction",
                               }),
                             ],
                           }),
@@ -546,11 +546,11 @@
                                 style: b,
                                 className: "tabsParagraph",
                                 children: [
-                                  "Sur l'application push, cliquez sur ",
+                                  "Sur l'application JL PAY, cliquez sur ",
                                   (0, a.jsx)("b", {
                                     children: '"TRANSF\xc9RER DE L\'ARGENT"',
                                   }),
-                                  ", et envoyez de l'argent vers un compte push, ou vers n'importe quel r\xe9seau Mobile Money",
+                                  ", et envoyez de l'argent vers un compte JL PAY, ou vers n'importe quel r\xe9seau Mobile Money",
                                 ],
                               }),
                               (0, a.jsxs)("p", {
@@ -561,14 +561,14 @@
                                   (0, a.jsx)("b", {
                                     children: '"ENVOI D\'ARGENT"',
                                   }),
-                                  " et envoyez de l'argent vers un compte push, ou vers n'importe quel r\xe9seau Mobile Money",
+                                  " et envoyez de l'argent vers un compte JL PAY, ou vers n'importe quel r\xe9seau Mobile Money",
                                 ],
                               }),
                               (0, a.jsx)("p", {
                                 style: b,
                                 className: "tabsParagraph",
                                 children:
-                                  "Rendez-vous dans le point push le plus proche de chez vous, et effectuez votre transaction",
+                                  "Rendez-vous dans le point JL PAY le plus proche de chez vous, et effectuez votre transaction",
                               }),
                             ],
                           }),
@@ -663,7 +663,7 @@
                             marginBottom: "10px",
                           },
                           children:
-                            "Merci pour l'int\xe9r\xeat que vous portez \xe0 push. Vous recevrez votre code d\u2019invitation par SMS.",
+                            "Merci pour l'int\xe9r\xeat que vous portez \xe0 JL PAY. Vous recevrez votre code d\u2019invitation par SMS.",
                         })
                       : (0, a.jsxs)("div", {
                           className: "home-modal",
@@ -761,7 +761,7 @@
                                                                 d
                                                               ),
                                                               message:
-                                                                "F\xe9licitations ! Votre inscription sur le site web push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
+                                                                "F\xe9licitations ! Votre inscription sur le site web JL PAY est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
                                                             },
                                                             t
                                                           ),
@@ -1083,7 +1083,7 @@
                                   textShadow: "0px 0px 86px #00000029",
                                   opacity: "1",
                                 },
-                                children: "push",
+                                children: "JL PAY",
                               }),
                               (0, a.jsxs)("div", {
                                 className: "d-flex justify-content-between",
@@ -1359,7 +1359,7 @@
                                       (0, a.jsx)("p", {
                                         className:
                                           "titleBlock titleBlock0 text-left ",
-                                        children: "La Carte push",
+                                        children: "La Carte JL PAY",
                                       }),
                                       (0, a.jsx)("div", {
                                         className:
@@ -1367,7 +1367,7 @@
                                         children: (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte push est une carte Visa ",
+                                            "La carte JL PAY est une carte Visa ",
                                             (0, a.jsx)("br", {}),
                                             " Internationale qui permet d\u2019effectuer ",
                                             (0, a.jsx)("br", {}),
@@ -1387,7 +1387,7 @@
                                         children: (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte push permet aussi de ",
+                                            "La carte JL PAY permet aussi de ",
                                             (0, a.jsx)("br", {}),
                                             " recevoir et envoyer de l\u2019argent via tous",
                                             (0, a.jsx)("br", {}),
@@ -1443,7 +1443,7 @@
                                         (0, a.jsx)("p", {
                                           className:
                                             "titleBlock titleBlock1 text-left",
-                                          children: "La virtuelle push",
+                                          children: "La virtuelle JL PAY",
                                         }),
                                         (0, a.jsx)("div", {
                                           className:
@@ -1451,7 +1451,7 @@
                                           children: (0, a.jsx)("p", {
                                             className: "titleBlockParagraph",
                                             children:
-                                              "La virtuelle push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
+                                              "La virtuelle JL PAY est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
                                           }),
                                         }),
                                         (0, a.jsx)("div", {
@@ -1460,7 +1460,7 @@
                                           children: (0, a.jsx)("p", {
                                             className: "titleBlockParagraph",
                                             children:
-                                              "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points push sur l\u2019ensemble du territoire Ivoirien.",
+                                              "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points JL PAY sur l\u2019ensemble du territoire Ivoirien.",
                                           }),
                                         }),
                                         (0, a.jsx)("div", {
@@ -1518,7 +1518,7 @@
                                     (0, a.jsx)("p", {
                                       className:
                                         "titleBlock titleBlock0 text-left ",
-                                      children: "La Carte push",
+                                      children: "La Carte JL PAY",
                                     }),
                                     (0, a.jsxs)("div", {
                                       className: "heightParagraph",
@@ -1526,7 +1526,7 @@
                                         (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte push est une carte Visa ",
+                                            "La carte JL PAY est une carte Visa ",
                                             (0, a.jsx)("br", {}),
                                             " Internationale qui permet d\u2019effectuer ",
                                             (0, a.jsx)("br", {}),
@@ -1542,7 +1542,7 @@
                                         (0, a.jsxs)("p", {
                                           className: "titleBlockParagraph0",
                                           children: [
-                                            "La carte push permet aussi de ",
+                                            "La carte JL PAY permet aussi de ",
                                             (0, a.jsx)("br", {}),
                                             " recevoir et envoyer de l\u2019argent via tous",
                                             (0, a.jsx)("br", {}),
@@ -1604,7 +1604,7 @@
                                         (0, a.jsx)("p", {
                                           className:
                                             "titleBlock titleBlock1 text-left",
-                                          children: "La virtuelle push",
+                                          children: "La virtuelle JL PAY",
                                         }),
                                         (0, a.jsxs)("div", {
                                           className: "heightParagraph",
@@ -1612,7 +1612,7 @@
                                             (0, a.jsx)("p", {
                                               className: "titleBlockParagraph",
                                               children:
-                                                "La virtuelle push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
+                                                "La virtuelle JL PAY est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
                                             }),
                                             (0, a.jsx)("br", {
                                               className: "tabletdisapear",
@@ -1620,7 +1620,7 @@
                                             (0, a.jsx)("p", {
                                               className: "titleBlockParagraph",
                                               children:
-                                                "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points push sur l\u2019ensemble du territoire Ivoirien.",
+                                                "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points JL PAY sur l\u2019ensemble du territoire Ivoirien.",
                                             }),
                                           ],
                                         }),
@@ -1661,7 +1661,7 @@
                                   (0, a.jsx)("p", {
                                     className:
                                       "titleBlock titleBlock0 text-left ",
-                                    children: "La Carte push",
+                                    children: "La Carte JL PAY",
                                   }),
                                   (0, a.jsxs)("div", {
                                     className: "explication",
@@ -1669,7 +1669,7 @@
                                       (0, a.jsxs)("p", {
                                         className: "titleBlockParagraph0",
                                         children: [
-                                          "La carte push est une carte Visa ",
+                                          "La carte JL PAY est une carte Visa ",
                                           (0, a.jsx)("br", {}),
                                           " Internationale qui permet d\u2019effectuer ",
                                           (0, a.jsx)("br", {}),
@@ -1685,7 +1685,7 @@
                                       (0, a.jsxs)("p", {
                                         className: "titleBlockParagraph0",
                                         children: [
-                                          "La carte push permet aussi de ",
+                                          "La carte JL PAY permet aussi de ",
                                           (0, a.jsx)("br", {}),
                                           " recevoir et envoyer de l\u2019argent via tous",
                                           (0, a.jsx)("br", {}),
@@ -1744,17 +1744,17 @@
                                     children: [
                                       (0, a.jsx)("p", {
                                         className: "titleBlock text-left",
-                                        children: "La virtuelle push",
+                                        children: "La virtuelle JL PAY",
                                       }),
                                       (0, a.jsx)("p", {
                                         className: "titleBlockParagraph",
                                         children:
-                                          "La virtuelle push est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
+                                          "La virtuelle JL PAY est une carte Visa Internationale digitale. Elle est enti\xe8rement gratuite. Elle permet d\u2019effectuer tous vos paiements en ligne, recevoir et transf\xe9rer de l\u2019argent.",
                                       }),
                                       (0, a.jsx)("p", {
                                         className: "titleBlockParagraph",
                                         children:
-                                          "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points push sur l\u2019ensemble du territoire Ivoirien.",
+                                          "Vous pouvez retirer de l\u2019argent gratuitement dans tous les points JL PAY sur l\u2019ensemble du territoire Ivoirien.",
                                       }),
                                       (0, a.jsx)("a", {
                                         href: "ouvrir-un-compte.html",
@@ -1982,7 +1982,7 @@
                 (0, a.jsx)(u.J, {}),
                 (0, a.jsxs)("section", {
                   className: "sections1 bg-cs-33",
-                  style: { borderBottom: "6px solid #4DAF27" },
+                  style: { borderBottom: "6px solid #d9534f" },
                   id: "tabs",
                   children: [
                     (0, a.jsx)("div", {
@@ -1990,7 +1990,7 @@
                       children: (0, a.jsxs)("p", {
                         className: "titleDiv titleAvecpush text-center py-5",
                         children: [
-                          "Avec push, je peux tout faire",
+                          "Avec JL PAY, je peux tout faire",
                           (0, a.jsx)("span", {
                             style: { color: "#d9534f" },
                             children: "_",

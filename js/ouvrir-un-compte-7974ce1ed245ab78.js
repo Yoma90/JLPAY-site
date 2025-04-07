@@ -82,7 +82,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "push :",
+                            children: "JL PAY :",
                           }),
                           (0, i.jsxs)("ul", {
                             className:
@@ -247,9 +247,9 @@
                                         children: (0, i.jsxs)("i", {
                                           className: "",
                                           children: [
-                                            "\u2018Avec push, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
+                                            "\u2018Avec JL PAY, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
                                             (0, i.jsx)("br", {}),
-                                            "Vraiment, push nous a soulag\xe9!\u2019",
+                                            "Vraiment, JL PAY nous a soulag\xe9!\u2019",
                                           ],
                                         }),
                                       }),
@@ -284,9 +284,9 @@
                                         children: (0, i.jsxs)("i", {
                                           className: "",
                                           children: [
-                                            "\u2018Avec push, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
+                                            "\u2018Avec JL PAY, je suis sereine. Chaque mois, je peux envoyer l\u2019argent \xe0 mes enfants en ville sans quitter le campement ! ",
                                             (0, i.jsx)("br", {}),
-                                            "Vraiment, push nous a soulag\xe9!\u2019",
+                                            "Vraiment, JL PAY nous a soulag\xe9!\u2019",
                                           ],
                                         }),
                                       }),
@@ -335,13 +335,13 @@
                             className:
                               "blue-light titleSubDiv d-block d-md-none",
                             children:
-                              "La solution push, une plateforme tout-en-1 !",
+                              "La solution JL PAY, une plateforme tout-en-1 !",
                           }),
                           (0, i.jsxs)("h1", {
                             className:
                               "blue-light titleSubDiv d-none d-md-block",
                             children: [
-                              "La solution push, une ",
+                              "La solution JL PAY, une ",
                               (0, i.jsx)("br", {}),
                               " plateforme tout-en-1 !",
                             ],
@@ -356,7 +356,7 @@
                                 fontFamily: "Poppins",
                               },
                               children: [
-                                "Via notre application ou en composant le code USSD *755# , ou m\xeame en vous rendant dans le point push le plus proche de chez vous, b\xe9n\xe9ficiez 24/7, avec ou sans internet, des services de push ",
+                                "Via notre application ou en composant le code USSD *755# , ou m\xeame en vous rendant dans le point JL PAY le plus proche de chez vous, b\xe9n\xe9ficiez 24/7, avec ou sans internet, des services de JL PAY ",
                                 (0, i.jsx)("span", {
                                   className: "solutiondisplayformobile",
                                   children: ".",
@@ -488,7 +488,7 @@
                               (0, i.jsx)("span", {
                                 className: "font-weight-bold",
                                 children:
-                                  "( Ce num\xe9ro sera li\xe9 \xe0 votre compte push )",
+                                  "( Ce num\xe9ro sera li\xe9 \xe0 votre compte JL PAY )",
                               }),
                               ".",
                             ],
@@ -510,7 +510,7 @@
                             children: [
                               "Je cr\xe9e mon code ",
                               (0, i.jsx)("br", {}),
-                              " secret push \xe0 ",
+                              " secret JL PAY \xe0 ",
                               (0, i.jsx)("br", {
                                 className: "textUnderImageBr",
                               }),
@@ -595,7 +595,7 @@
                               " profitez de ",
                               (0, i.jsx)("span", {
                                 className: "font-weight-bold",
-                                children: "push",
+                                children: "JL PAY",
                               }),
                               ".",
                             ],
@@ -651,7 +651,7 @@
                                 (0, i.jsx)("span", {
                                   className: "font-weight-bold",
                                   children:
-                                    "( Ce num\xe9ro sera li\xe9  \xe0 votre compte push )",
+                                    "( Ce num\xe9ro sera li\xe9  \xe0 votre compte JL PAY )",
                                 }),
                                 ".",
                               ],
@@ -669,7 +669,7 @@
                             (0, i.jsx)("div", {
                               className: "text-center blue textUnderImage",
                               children:
-                                "Je cr\xe9e mon code secret push \xe0 5 chiffres.",
+                                "Je cr\xe9e mon code secret JL PAY \xe0 5 chiffres.",
                             }),
                           ],
                         }),
@@ -723,7 +723,7 @@
                                 "F\xe9licitations, votre inscription est termin\xe9e, profitez de ",
                                 (0, i.jsx)("span", {
                                   className: "font-weight-bold",
-                                  children: "push",
+                                  children: "JL PAY",
                                 }),
                                 ".",
                               ],
@@ -853,7 +853,7 @@
                                       fontSize: "30px",
                                       color: "#004156",
                                     },
-                                    children: "push",
+                                    children: "JL PAY",
                                   }),
                                   (0, i.jsxs)("div", {
                                     className: "d-flex align-items-center",
@@ -948,7 +948,7 @@
                                         ? (0, i.jsx)("div", {
                                             className: "sms-sent",
                                             children:
-                                              "Merci pour l'int\xe9r\xeat que vous portez \xe0 push. Vous recevrez votre code d\u2019invitation par SMS.",
+                                              "Merci pour l'int\xe9r\xeat que vous portez \xe0 JL PAY. Vous recevrez votre code d\u2019invitation par SMS.",
                                           })
                                         : (0, i.jsxs)("div", {
                                             children: [
@@ -1081,7 +1081,7 @@
                                                                                         s
                                                                                       ),
                                                                                       message:
-                                                                                        "F\xe9licitations ! Votre inscription sur le site web push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
+                                                                                        "F\xe9licitations ! Votre inscription sur le site web JL PAY est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
                                                                                     },
                                                                                     i
                                                                                   ),
@@ -1389,7 +1389,7 @@
                                             ? (0, i.jsx)("div", {
                                                 className: "sms-sent",
                                                 children:
-                                                  "Merci pour l'int\xe9r\xeat que vous portez \xe0 push. Vous recevrez votre code d\u2019invitation par SMS.",
+                                                  "Merci pour l'int\xe9r\xeat que vous portez \xe0 JL PAY. Vous recevrez votre code d\u2019invitation par SMS.",
                                               })
                                             : (0, i.jsxs)("div", {
                                                 children: [
@@ -1539,7 +1539,7 @@
                                                                                                 s
                                                                                               ),
                                                                                               message:
-                                                                                                "F\xe9licitations ! Votre inscription sur le site web push est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
+                                                                                                "F\xe9licitations ! Votre inscription sur le site web JL PAY est bien enregistr\xe9e. T\xe9l\xe9chargez notre application mobile via le lien suivant : http://bit.ly/3VTAldf",
                                                                                             },
                                                                                             i
                                                                                           ),

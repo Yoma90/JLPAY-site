@@ -192,7 +192,7 @@
                               position: "relative",
                               bottom: "14px",
                             },
-                            children: "push :",
+                            children: "JL PAY :",
                           }),
                           (0, l.jsxs)("ul", {
                             className:
@@ -329,7 +329,7 @@
                                 (0, l.jsxs)("p", {
                                   className: "text-white titleFind",
                                   children: [
-                                    "Nos agences push r\xe9volutionnent ",
+                                    "Nos agences JL PAY r\xe9volutionnent ",
                                     (0, l.jsx)("br", {}),
                                     " l\u2019usage des Cartes Bancaires !",
                                   ],
@@ -340,9 +340,9 @@
                                   children: [
                                     "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte ",
                                     (0, l.jsx)("br", {}),
-                                    " push), retirez GRATUITEMENT votre argent,",
+                                    " JL PAY), retirez GRATUITEMENT votre argent,",
                                     (0, l.jsx)("br", {}),
-                                    " avec ou sans votre carte, dans le point push ",
+                                    " avec ou sans votre carte, dans le point JL PAY ",
                                     (0, l.jsx)("br", {}),
                                     " le plus proche de chez vous !",
                                   ],
@@ -357,12 +357,12 @@
                                   className:
                                     "text-white titleFind titleFind-mobile",
                                   children:
-                                    "Nos agences push r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
+                                    "Nos agences JL PAY r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
                                 }),
                                 (0, l.jsx)("p", {
                                   className: "text-white textFind-mobile",
                                   children:
-                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte push), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point push le plus proche de chez vous !",
+                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte JL PAY), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point JL PAY le plus proche de chez vous !",
                                 }),
                               ],
                             }),
@@ -421,7 +421,7 @@
                                 (0, l.jsxs)("p", {
                                   className: "text-white titleFind",
                                   children: [
-                                    "Nos agences push r\xe9volutionnent ",
+                                    "Nos agences JL PAY r\xe9volutionnent ",
                                     (0, l.jsx)("br", {}),
                                     " l\u2019usage des Cartes Bancaires !",
                                   ],
@@ -432,9 +432,9 @@
                                   children: [
                                     "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte ",
                                     (0, l.jsx)("br", {}),
-                                    " push), retirez GRATUITEMENT votre argent,",
+                                    " JL PAY), retirez GRATUITEMENT votre argent,",
                                     (0, l.jsx)("br", {}),
-                                    " avec ou sans votre carte, dans le point push ",
+                                    " avec ou sans votre carte, dans le point JL PAY ",
                                     (0, l.jsx)("br", {}),
                                     " le plus proche de chez vous !",
                                   ],
@@ -449,12 +449,12 @@
                                   className:
                                     "text-white titleFind titleFind-mobile",
                                   children:
-                                    "Nos agences push r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
+                                    "Nos agences JL PAY r\xe9volutionnent l\u2019usage des Cartes Bancaires !",
                                 }),
                                 (0, l.jsx)("p", {
                                   className: "text-white textFind-mobile",
                                   children:
-                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte push), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point push le plus proche de chez vous !",
+                                    "Gr\xe2ce \xe0 votre num\xe9ro de t\xe9l\xe9phone (Compte JL PAY), retirez GRATUITEMENT votre argent, avec ou sans votre carte, dans le point JL PAY le plus proche de chez vous !",
                                 }),
                               ],
                             }),
@@ -565,7 +565,7 @@
                                       className:
                                         "avenir-black blue text-center tarifs-title-carte-virtuelle",
                                       style: { fontSize: "18px" },
-                                      children: "La Virtuelle push",
+                                      children: "La Virtuelle JL PAY",
                                     }),
                                   }),
                                 ],
@@ -586,7 +586,7 @@
                                       className:
                                         "avenir-black blue text-center tarifs-title-carte-push",
                                       style: { fontSize: "18px" },
-                                      children: "La carte push",
+                                      children: "La carte JL PAY",
                                     }),
                                   }),
                                 ],
@@ -647,7 +647,7 @@
                             children: [
                               (0, l.jsx)("div", {
                                 className: "col-5 label-avantage",
-                                children: "Retrait en Point de vente push",
+                                children: "Retrait en Point de vente JL PAY",
                               }),
                               (0, l.jsxs)("div", {
                                 className: "col-3 blue fact group-text-four",
@@ -686,7 +686,7 @@
                             children: [
                               (0, l.jsx)("div", {
                                 className: "col-5 label-avantage",
-                                children: "Transfert de push vers push",
+                                children: "Transfert de JL PAY vers JL PAY",
                               }),
                               (0, l.jsxs)("div", {
                                 className: "col-3 blue fact group-text-four",
@@ -1026,7 +1026,7 @@
                               (0, l.jsx)("div", {
                                 className: "col-5 label-avantage",
                                 children:
-                                  "D\xe9p\xf4t d'esp\xe8ces en point push",
+                                  "D\xe9p\xf4t d'esp\xe8ces en point JL PAY",
                               }),
                               (0, l.jsx)("div", {
                                 className: "col-7 blue fact text-center",
@@ -1050,7 +1050,7 @@
                             children: [
                               (0, l.jsx)("div", {
                                 className: "col-5 label-avantage",
-                                children: "Transfert de push vers Mobile Money",
+                                children: "Transfert de JL PAY vers Mobile Money",
                               }),
                               (0, l.jsxs)("div", {
                                 className: "col-7 blue fact text-center",
@@ -1264,7 +1264,7 @@
                                 children: (0, l.jsxs)("div", {
                                   className: "blue text-left",
                                   children: [
-                                    "Offre promotionnelle : les frais push sont offerts. ",
+                                    "Offre promotionnelle : les frais JL PAY sont offerts. ",
                                     (0, l.jsx)("br", {}),
                                     "Sur les op\xe9rations hors XOF, un taux de change est applicable et consultable depuis l\u2019application mobile. ",
                                     (0, l.jsx)("br", {}),
@@ -1332,7 +1332,7 @@
                                   className: "blue",
                                   children: (0, l.jsx)("h6", {
                                     className: "avenir-black blue",
-                                    children: "La Carte push",
+                                    children: "La Carte JL PAY",
                                   }),
                                 }),
                               ],
@@ -1381,7 +1381,7 @@
                               children: [
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
-                                  children: "Retrait en Point de vente push",
+                                  children: "Retrait en Point de vente JL PAY",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className: "col-4 green fact mt-4",
@@ -1405,7 +1405,7 @@
                               children: [
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
-                                  children: "Transfert de push vers push",
+                                  children: "Transfert de JL PAY vers JL PAY",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className: "col-4 green fact mt-4",
@@ -1688,7 +1688,7 @@
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
                                   children:
-                                    "D\xe9p\xf4t d'esp\xe8ces en point push",
+                                    "D\xe9p\xf4t d'esp\xe8ces en point JL PAY",
                                 }),
                                 (0, l.jsx)("div", {
                                   className: "col-6 green mt-4",
@@ -1715,7 +1715,7 @@
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
                                   children:
-                                    "Transfert de push vers Mobile Money",
+                                    "Transfert de JL PAY vers Mobile Money",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className: "col-6 green mt-4",
@@ -1933,7 +1933,7 @@
                                   children: (0, l.jsxs)("div", {
                                     className: "blue text-left",
                                     children: [
-                                      "Offre promotionnelle : les frais push sont offerts. ",
+                                      "Offre promotionnelle : les frais JL PAY sont offerts. ",
                                       (0, l.jsx)("br", {}),
                                       "Sur les op\xe9rations hors XOF, un taux de change est applicable et consultable depuis l\u2019application mobile. ",
                                       (0, l.jsx)("br", {}),
@@ -1967,7 +1967,7 @@
                                 className: "blue",
                                 children: (0, l.jsx)("h6", {
                                   className: "avenir-black blue",
-                                  children: "La Virtuelle push",
+                                  children: "La Virtuelle JL PAY",
                                 }),
                               }),
                             ],
@@ -2015,7 +2015,7 @@
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
                                   style: { marginTop: "-8px" },
-                                  children: "Retrait en Point de vente push",
+                                  children: "Retrait en Point de vente JL PAY",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className: "col-4 blue fact mt-3",
@@ -2040,7 +2040,7 @@
                               children: [
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
-                                  children: "Transfert de push vers push",
+                                  children: "Transfert de JL PAY vers JL PAY",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className: "col-4 blue fact mt-3",
@@ -2298,7 +2298,7 @@
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
                                   children:
-                                    "D\xe9p\xf4t d'esp\xe8ces en point push",
+                                    "D\xe9p\xf4t d'esp\xe8ces en point JL PAY",
                                 }),
                                 (0, l.jsx)("div", {
                                   className: "col-6 blue",
@@ -2325,7 +2325,7 @@
                                 (0, l.jsx)("div", {
                                   className: "col-5 label-avantage",
                                   children:
-                                    "Transfert de push vers Mobile Money",
+                                    "Transfert de JL PAY vers Mobile Money",
                                 }),
                                 (0, l.jsxs)("div", {
                                   className: "col-6 blue mt-4",
@@ -2526,7 +2526,7 @@
                                   children: (0, l.jsxs)("div", {
                                     className: "blue text-left",
                                     children: [
-                                      "Offre promotionnelle : les frais push sont offerts. ",
+                                      "Offre promotionnelle : les frais JL PAY sont offerts. ",
                                       (0, l.jsx)("br", {}),
                                       "Sur les op\xe9rations hors XOF, un taux de change est applicable et consultable depuis l\u2019application mobile. ",
                                       (0, l.jsx)("br", {}),
