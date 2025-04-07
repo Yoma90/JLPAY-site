@@ -596,14 +596,6 @@
                                           children: "Demander une d\xe9mo",
                                         }),
                                       }),
-                                      (0, e.jsx)("div", {
-                                        className: "w-auto",
-                                        children: (0, e.jsx)("img", {
-                                          src: "/images/moins_24_heures.png",
-                                          className: "img-fluid ml-5",
-                                          alt: "distributor",
-                                        }),
-                                      }),
                                     ],
                                   }),
                                 ],

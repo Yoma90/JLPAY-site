@@ -2056,7 +2056,7 @@ body {
   }
   .fa-asterisk:before {
     font-size: 9px;
-    color: #529e1f;
+    color: #d9534f;
   }
 }
 @media (min-width: 1440px) {
@@ -2899,36 +2899,40 @@ p {
   background-color: #e9eff0 !important;
 }
 .becomeDistributor {
-  background-color: #f1f4f5 !important;
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 .becomeDistributor .fields {
-  background-color: #dae1e2;
+  background-color: #f3c2b6;
   margin-bottom: 1.3em;
   border-color: transparent;
   padding: 0.81rem 0.96rem;
   height: inherit;
   opacity: 80%;
+  color: #000;
 }
 .becomeDistributor .fields::-moz-placeholder {
   font-weight: 400;
   font-size: 1.2em;
-  color: #779aa2;
+  color: #000;
 }
 .becomeDistributor .fields:-ms-input-placeholder {
   font-weight: 400;
   font-size: 1.2em;
-  color: #779aa2;
+  color: #000;
 }
 .becomeDistributor .fields::placeholder {
   font-weight: 400;
   font-size: 1.2em;
-  color: #779aa2;
+  color: #000;
 }
 .becomeDistributor .fields:focus {
   border-color: transparent;
 }
 .becomeDistributor .fields.is-invalid {
-  border-color: #dc3545;
+  border-color: #000;
 }
 .blue-074756 {
   color: #004156 !important;
@@ -2978,7 +2982,10 @@ p {
   color: #063844;
 }
 .bg-cyan {
-  background-color: #eff5f6;
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 .card-pb {
   height: 24rem;
@@ -3162,9 +3169,9 @@ p {
   }
 }
 .bg-hero-propos {
-  background: #d3e1c3;
-  background: linear-gradient(180deg, #d3e1c3 39%, #fff 79%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d3e1c3",endColorstr="#ffffff",GradientType=1);
+  background: #e1d4c3;
+  background: linear-gradient(180deg, #e1d5c3 39%, #fff 79%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e1d5c3",endColorstr="#ffffff",GradientType=1);
   background-position: 50%;
 }
 .gb-cs {
@@ -3201,7 +3208,10 @@ p {
   background-size: cover;
 }
 .bg-cs-35 {
-  background-color: #e4ebec !important;
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  ) !important;
 }
 .list-perso {
   list-style: none;
@@ -3420,7 +3430,10 @@ p {
 }
 @media screen and (min-width: 426px) {
   .ourValeur {
-    background: #e8f7fc;
+    background-image: linear-gradient(
+      rgba(216, 163, 50, 0.2),
+      rgba(226, 145, 52, 0.2)
+    );
   }
   .ourValeur img {
     width: 320px;
@@ -3432,7 +3445,10 @@ p {
 }
 @media screen and (max-width: 575px) {
   .ourValeur {
-    background: #e8f7fc;
+    background-image: linear-gradient(
+      rgba(216, 163, 50, 0.2),
+      rgba(226, 145, 52, 0.2)
+    );
   }
   .ourValeur img {
     width: 70%;
@@ -3675,7 +3691,10 @@ p {
   border: none;
 }
 .Mycard .card-body {
-  background: #fff;
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 .titleJoin {
   color: #004156;
@@ -3958,10 +3977,12 @@ textarea {
     width: 100% !important;
   }
 }
+
 .open-account {
-  background-image: url(../images/bg-open-account.png);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 @media (max-width: 767px) {
   .alex-block {
@@ -4049,8 +4070,8 @@ textarea {
 }
 .cartepush {
   background-image: linear-gradient(
-    rgba(30, 70, 84, 0.2),
-    rgba(104, 172, 64, 0.2)
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
   );
 }
 @media (max-width: 450px) {
@@ -4092,7 +4113,10 @@ textarea {
   margin-right: 20px;
 }
 .vitualCard {
-  background: linear-gradient(rgba(82, 185, 249, 0.2), rgba(35, 87, 110, 0.2));
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 @media (max-width: 450px) {
   .vitualCard .btnBuy {
@@ -4133,7 +4157,10 @@ textarea {
   }
 }
 #superApp .colInfo {
-  background: linear-gradient(rgba(30, 70, 84, 0.2), rgba(104, 172, 64, 0.2));
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 #superApp .rowCol {
   max-height: 10%;
@@ -4395,7 +4422,7 @@ textarea {
   }
 }
 .green {
-  color: #519d1e;
+  color: #d9534f;
 }
 .blue-light {
   color: #004156;
@@ -4467,7 +4494,7 @@ button.find-agency {
   margin-left: -2% !important;
 }
 .testimonial-bloc {
-  background-color: #d7e5e9;
+  background-color: #faf9e7;
   padding: 30px;
 }
 .testimonial-bloc .carousel-caption {
@@ -4492,14 +4519,17 @@ button.find-agency {
   z-index: 1;
 }
 .all-in-one {
-  background-color: #ebf4e6;
+  background-color: #f7f2dd;
 }
 .all-in-one .textJoin {
   color: #063844;
   font: normal normal normal 20px Avenir;
 }
 .how-it-works {
-  background-color: #e9eff0;
+  background-image: linear-gradient(
+    rgba(216, 163, 50, 0.2),
+    rgba(226, 145, 52, 0.2)
+  );
 }
 .open-account .white-bg {
   background-color: #fff;
@@ -5222,8 +5252,8 @@ section#produits .titleDiv {
   position: absolute;
   content: "";
   right: 0;
-  border-color: currentcolor #4daf27 #4daf27;
-  border-top: 2px solid #4daf27;
+  border-color: currentcolor #d9534f #d9534f;
+  border-top: 2px solid #d9534f;
   transform: rotate(-22deg);
 }
 @media (min-width: 1145px) {
